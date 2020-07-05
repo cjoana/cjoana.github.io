@@ -14,9 +14,9 @@ title: " "
 
 
 
-I am doctoral resercher ([CURL](https://curl.group)) interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more . 
+I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more . 
 
-I enjoy a FNRS-FRIA grant to do my reserarch in Belgium. 
+I enjoy a FNRS-FRIA grant to do my reserarch at [CURL](https://curl.group) in Belgium. 
  
 You can find my research and codes in [GitHub](https://github.com/cjoana).
 
@@ -27,13 +27,14 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 <div class="inforow">
 <div class="infocolumn" markdown="block">
-- **Cosmology - Early Universe**: Inflation; Primordial Black Holes; Cosmic strings; Graviational waves
-- **General Relativity**: Graviational collapse; Black Holes
+- **Cosmology - Early Universe**: Inflation; primordial black holes; cosmic strings; graviational waves
+- **Cosmology - Late Universe**: Dark energy; gravaitational backreactions; H0 tension.
+- **General Relativity**: Scalar-tensor theories; compact objects & topological defects
 </div>
 <div class="infocolumn" markdown="block">
-- **Neuroscience**: Perception; Active vision
-- **Computer sciences**: high performance computing; Reservoir computing; Neuromorphic computing
-- **Quantum Optics**: quantum open systems; exciton-polariton
+- **Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding
+- **Computer sciences**: High performance computing; reservoir computing; neuromorphic computing
+- **Quantum optics**: Quantum open systems; exciton-polaritons; 
 
 </div>
 </div> <!-- /.inforow -->
@@ -68,7 +69,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> PhD collaborators </h4>
 
 
-- [Christian Keup](https://curl.group/members/chris.html) (Juelich)
+- [Christian Keup](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Keup_Christian.html?nn=724694) (Juelich)
 
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Senior collaborators </h4>
