@@ -30,6 +30,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Cosmology - Early Universe**: Inflation; primordial black holes; cosmic strings; graviational waves
 - **Cosmology - Late Universe**: Dark energy; gravaitational backreactions; H0 tension.
 - **General Relativity**: Scalar-tensor theories; compact objects & topological defects
+- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology. 
 </div>
 <div class="infocolumn" markdown="block">
 - **Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding
