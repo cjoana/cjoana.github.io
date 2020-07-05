@@ -78,10 +78,11 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 - [Sebastien Clesse](https://curl.group/members/clesse.html) (UCLovain-CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
+- [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
 - Junji Ito (Juelich)
 - Sonja Gruen (Juelich)
 - Pedro Maldonado (Univ. Chile)
-- Tim Byrnes (NYU Shanghai)
+- [Tim Byrnes](http://nyu.timbyrnes.net/) (NYU Shanghai)
 
 </div>
 </div> <!-- /.inforow -->
