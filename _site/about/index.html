@@ -1,22 +1,65 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About | Your awesome title</title>
-<meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="About" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="Your awesome title" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"About","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","url":"http://localhost:4000/about/","name":"Your awesome title","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Your awesome title" /></head>
-<body><header id="masthead">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>About • Your awesome title</title>
+    
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="About">
+	
+	
+	
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="http://localhost:4000/images/">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="About">
+	
+	<meta property="og:url" content="http://localhost:4000/about/">
+	<meta property="og:site_name" content="Your awesome title">
+
+    <link rel="canonical" href="http://localhost:4000/about/">
+
+    <link href="http://localhost:4000/atom.xml" type="application/atom+xml" rel="alternate" title="Your awesome title Atom Feed">
+    <link href="http://localhost:4000/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <style>
+    .sliding-menu-content {
+      top: 0;
+      right: 0;
+      text-align: center;
+      visibility: hidden;
+      height: 100%;
+      width: 100%;
+      -webkit-transform: translateX(100%);
+      -moz-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+      -o-transform: translateX(100%);
+      transform: translateX(100%);
+    }
+    </style>
+
+    <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="http://localhost:4000/js/vendor/html5shiv.min.js"></script>
+      <script src="http://localhost:4000/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+    <header id="masthead">
   <div class="inner-wrap">
     <a href="http://localhost:4000/" class="site-title">Your awesome title</a>
     <nav role="navigation" class="menu top-menu">
@@ -26,9 +69,22 @@
 </ul>
     </nav>
   </div><!-- /.inner-wrap -->
-</header><!-- /.masthead --><main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
+</header><!-- /.masthead -->
+    <nav role="navigation" class="js-menu sliding-menu-content">
+	<ul class="menu-item">
+		
+	</ul>
+</nav>
+<button type="button" class="js-menu-trigger sliding-menu-button menulines-button x2" role="button" aria-label="Toggle Navigation">
+	<span class="menulines"></span>
+</button>
+
+<div class="js-menu-screen menu-screen"></div>
+
+    <div id="page-wrapper">
+      <!--[if lt IE 9]><div class="upgrade notice-danger"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+      <article class="post">
 
   <header class="post-header">
     <h1 class="post-title">About</h1>
@@ -50,14 +106,22 @@
 
 </article>
 
-      </div>
-    </main><footer role="contentinfo" id="site-footer">
+
+      <footer role="contentinfo" id="site-footer">
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		
 		</ul>
 	</nav><!-- /.bottom-menu -->
 	<p class="copyright">&#169; 2020 <a href="http://localhost:4000">Your awesome title</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
-</footer></body>
+</footer>
+    </div>
+
+    <script src="http://localhost:4000/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="http://localhost:4000/js/main.js"></script>
+    
+    
+
+  </body>
 
 </html>
