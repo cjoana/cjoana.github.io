@@ -14,7 +14,7 @@ title: " "
 
 
 
-I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more . 
+I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more. 
 
 I enjoy a FNRS-FRIA grant to do my reserarch at [CURL](https://curl.group) in Belgium. 
  
