@@ -1,7 +1,7 @@
 ---
 layout: home
 image:
-  feature: turbulence.png
+  feature: Universe_lede1300.jpg
 permalink: /
 title: " "
 ---
