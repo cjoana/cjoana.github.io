@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -22,7 +22,7 @@ title: "Cristian Joana"
 email: "cristian.joana_at_uclouvain.be"
 description:  "Personal & professional webpage of Catalan physicist Cristian Joana"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cjoana.github.io"
+url: "https://cjoana.github.io"
 twitter_username: cjphy
 github_username:  cjoana
 

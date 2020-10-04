@@ -14,14 +14,14 @@ title: " "
 
 
 
-I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more. 
+I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more.
 
-I enjoy a FNRS-FRIA grant to do my reserarch at [CURL](https://curl.group) in Belgium. 
- 
+I enjoy a FNRS-FRIA grant to do my reserarch at [CURL](https://curl.group) in Belgium.
+
 You can find my research and codes in [GitHub](https://github.com/cjoana).
 
 
-### Research 
+### Research
 
 I have a wide range of interdisciplinary research interests. These reflect some of my latest publications:
 
@@ -30,12 +30,12 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Cosmology - Early Universe**: Inflation; primordial black holes; cosmic strings; graviational waves
 - **Cosmology - Late Universe**: Dark energy; gravaitational backreactions; H0 tension.
 - **General Relativity**: Scalar-tensor theories; compact objects & topological defects
-- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology. 
+- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology.
 </div>
 <div class="infocolumn" markdown="block">
 - **Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding
 - **Computer sciences**: High performance computing; reservoir computing; neuromorphic computing
-- **Quantum optics**: Quantum open systems; exciton-polaritons; 
+- **Quantum optics**: Quantum open systems; exciton-polaritons;
 
 </div>
 </div> <!-- /.inforow -->
@@ -56,15 +56,15 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 #### Past Teaching
 
-- [Introduction to Computational Neuroscience](http://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) 
-- [Theoretical Neuroscience](http://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
+- [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
+- [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
 
 
 </div>
 <div class="infocolumnR" markdown="block">
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborations</h4>
 
-- [GRChombo Team](http://www.grchombo.org/collaborators) 
+- [GRChombo Team](https://www.grchombo.org/collaborators)
 - [LISA](https://www.elisascience.org/)
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> PhD collaborators </h4>
@@ -82,7 +82,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - Junji Ito (Juelich)
 - Sonja Gruen (Juelich)
 - Pedro Maldonado (Univ. Chile)
-- [Tim Byrnes](http://nyu.timbyrnes.net/) (NYU Shanghai)
+- [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
 
 </div>
 </div> <!-- /.inforow -->
@@ -92,7 +92,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 <div class="tiles">
 {% for post in site.posts limit:32 %}
-   {% if post.title != empty %}	
+   {% if post.title != empty %}
 	{% include post-grid.html %}
    {% endif %}
 {% endfor %}
@@ -101,5 +101,3 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <div style="float:right" markdown="block">
 #### For more posts see [publications](/articles) and [other posts](/projects).
 </div>
-
-
