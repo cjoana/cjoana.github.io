@@ -106,6 +106,4 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 {% endfor %}
 </div><!-- /.tiles -->
 
-<div style="float:right" markdown="block">
-#### For more posts see [publications](/articles) and [other posts](/projects).
-</div>
+
