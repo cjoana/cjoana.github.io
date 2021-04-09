@@ -10,7 +10,9 @@ image:
   teaser: IC_eos.png
 ---
 
-In Ref. [1] Sebastien and I studied the robustness of Starobinsky and Higgs inflation to inhomogeneous initial conditions of all sizes. They have performed full numerical relativity simulations with strong inhomogeneous initial field and velocities. After some *wibbly-wobbly timey-wimey* evolution, the system relaxes starting Cosmic Inflation.
+Study on the non-linear dynamics previous to cosmic inflation. 
+
+In Ref. [1] Sebastien and I studied the robustness of Starobinsky and Higgs inflation to inhomogeneous initial conditions of all sizes. We have performed full numerical relativity simulations with strong inhomogeneous initial field and velocities. After some *wibbly-wobbly timey-wimey* evolution, the system relaxes starting Cosmic Inflation.
 
 Simulations show that sub-Hubble, as well as Hubble-sized, fluctuations generically lead to inflation after an oscillatory phase between gradient and kinetic energies. The following figure shows the evolution of the equation of state for sub-Hubble (top), and super-Hubble (bottom) inhomogeneous initial conditions
 
