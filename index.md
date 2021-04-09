@@ -13,13 +13,15 @@ title: " "
 # [About me](/about)
 
 
+I am a doctoral researcher interested in numerical relativity and cosmology. I study topics of the early Universe such as inflation and possible observables from primordial black holes, cosmic strings, and more. Most of my work is performing numerical simulations, where I use the GRChombo code and I contribute to its development and maintenance.
 
-I am doctoral resercher interested in numerical relativity and cosmology. I study topics of the early Universe such inflation and possible observables from primordial black holes, cosmic strings, and more.
+I enjoy a FNRS-FRIA grant to do my research at UCLouvain, [CURL](https://curl.group) in Belgium.
 
-I enjoy a FNRS-FRIA grant to do my reserarch at [CURL](https://curl.group) in Belgium.
+I am also very passionate about neuroscience. I the past, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center. The collaboration is still ongoing, I am part of the Active vision project.
 
 You can find my research and codes in [GitHub](https://github.com/cjoana).
 
+I am also a Chess enthusiast and I usually play in [Chess.com](https://www.chess.com/member/cjoana). 
 
 ### Research
 
@@ -27,15 +29,15 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 <div class="inforow">
 <div class="infocolumn" markdown="block">
-- **Cosmology - Early Universe**: Inflation; primordial black holes; cosmic strings; graviational waves
-- **Cosmology - Late Universe**: Dark energy; gravaitational backreactions; H0 tension.
-- **General Relativity**: Scalar-tensor theories; compact objects & topological defects
-- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology.
+- **Cosmology**: Early universe, inflation; primordial black holes.
+- **General Relativity**: Hydro-GR codes; backreations, compact objects & topological defects.
+- **Quantum Mechanics**: Quantum open systems; decoherence; exciton-polaritons.
 </div>
 <div class="infocolumn" markdown="block">
-- **Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding
-- **Computer sciences**: High performance computing; reservoir computing; neuromorphic computing
-- **Quantum optics**: Quantum open systems; exciton-polaritons;
+- **Visual Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding.
+- **Systems Neurosciecne**: Neural coding, information processing; electrophysiology;
+- **Computational Neuroscience**: Neural networks codes, NEST; Statistical and data analysis; 
+
 
 </div>
 </div> <!-- /.inforow -->
@@ -52,9 +54,11 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 #### Current Teaching
 
-- [Tutorial of Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342)
+- [Tutorial of Quantum mechanics II](https://uclouvain.be/en-cours-2021-lphys1342)
 
 #### Past Teaching
+
+- [Tutorial of Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342)
 
 - [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
 - [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
@@ -64,8 +68,12 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <div class="infocolumnR" markdown="block">
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborations</h4>
 
-- [GRChombo Team](https://www.grchombo.org/collaborators)
+- [GRChombo Team](https://www.grchombo.org/)
 - [LISA](https://www.elisascience.org/)
+
+- [Active Vision](https://www.fz-juelich.de/inm/inm-6/EN/Forschung/Gruen/ActiveVision.html?nn=724916)
+- [Elephant](http://neuralensemble.org/elephant)
+- [NEST](https://www.nest-simulator.org/)
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> PhD collaborators </h4>
 
