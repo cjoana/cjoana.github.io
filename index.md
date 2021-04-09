@@ -35,7 +35,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 </div>
 <div class="infocolumn" markdown="block">
 - **Cognitive Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding.
-- **Systems Neurosciencne**: Neural coding, information processing; electrophysiology;
+- **Systems Neuroscience**: Neural coding, information processing; electrophysiology;
 - **Computational Neuroscience**: Neural networks codes, NEST; Statistical and data analysis; 
 
 
