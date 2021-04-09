@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: ""
 toc: false
 categories: contact
@@ -20,7 +20,6 @@ ads: false
 ## Address
 
 Cristian Joana \\
-Doctoral Researcher (FRIA) \\
 Cosmology, Universe and Relativity at Louvain (CURL) \\
 University of Louvain \\
 Louvain-la-Neuve, 1348 \\
