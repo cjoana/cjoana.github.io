@@ -75,28 +75,27 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - [Elephant](http://neuralensemble.org/elephant)
 - [NEST](https://www.nest-simulator.org/)
 
-<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> PhD collaborators </h4>
-
-
-- [Christian Keup](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Keup_Christian.html?nn=724694) (Juelich)
-
-
-<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Senior collaborators </h4>
+<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
 
 - [Sebastien Clesse](https://curl.group/members/clesse.html) (UCLovain-CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
+- [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
+
+
+- [Christian Keup](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Keup_Christian.html?nn=724694) (Juelich)
 - [Junji Ito](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Ito_Junji.html?nn=724694) (Juelich)
 - [Sonja Gruen](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Gruen_Sonja.html?nn=724694) (Juelich)
 - [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
-- [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
+
+
 
 </div>
 </div> <!-- /.inforow -->
 
 
-## Recent publications & blog posts
+## Recently in this website ...
 
 <div class="tiles">
 {% for post in site.posts limit:32 %}
