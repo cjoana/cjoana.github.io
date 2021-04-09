@@ -1,7 +1,7 @@
 ---
 layout: home
 image:
-  feature: Universe_lede1300.jpg
+  feature: myback.jpg
 permalink: /
 title: " "
 ---
@@ -79,9 +79,9 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - [Sebastien Clesse](https://curl.group/members/clesse.html) (UCLovain-CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
-- Junji Ito (Juelich)
-- Sonja Gruen (Juelich)
-- Pedro Maldonado (Univ. Chile)
+- [Junji Ito](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Ito_Junji.html?nn=724694) (Juelich)
+- [Sonja Gruen](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Gruen_Sonja.html?nn=724694) (Juelich)
+- [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
 - [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
 
 </div>
