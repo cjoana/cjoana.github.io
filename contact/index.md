@@ -3,7 +3,7 @@ layout: archive
 title: ""
 toc: false
 categories: contact
-excerpt: "I am a researcher at the University of Louvain working on Early universe cosmology. I also have ongoing projects on the field of neuroscience with Juelich research centre and University of Chile."
+excerpt: " "
 tags: 
 image:
   feature:
