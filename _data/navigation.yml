@@ -1,18 +1,23 @@
 # Site navigation links
 
-
-- title: About
-  url: /info/about/
-  excerpt: "Short personal description of me, myself and I"
-
-- title: Teaching
-  url: /teaching/
-  excerpt: "Teaching related stuff"
-
-- title: Projects
-  url: /projects/
-  excerpt: "My current and past projects"
-
-- title: Articles
-  url: /articles/
-  excerpt: "My writings, blog posts and publications collected"
+- title: Contact
+  url: /contact/
+  excerpt: "Short personal description of who I am"
+  
+#- title: CV
+#  url: https://github.com/cjoana/...
+#  excerpt: "My Curriculum Vitae"
+  
+  
+#- title: Teaching
+#  url: /teaching/
+#  excerpt: "Teaching related stuff"
+#
+#- title: Projects
+#  url: /projects/
+#  excerpt: "My current and past projects"
+#
+#- title: Articles
+#  url: /articles/
+#  excerpt: "My writings, blog posts and publications collected"
+ 
