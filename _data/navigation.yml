@@ -1,8 +1,12 @@
 # Site navigation links
+  
+- title: cosmo
+  url: /cosmo/
+  excerpt: "Articles and posts about cosmology"
 
-- title: Contact
-  url: /contact/
-  excerpt: "Short personal description of who I am"
+#- title: neuro
+#  url: /neuro/
+#  excerpt: "Articles and posts about neuroscience"
   
 #- title: CV
 #  url: https://github.com/cjoana/...
@@ -21,3 +25,7 @@
 #  url: /articles/
 #  excerpt: "My writings, blog posts and publications collected"
  
+ 
+- title: contact
+  url: /contact/
+  excerpt: "Contact details"
