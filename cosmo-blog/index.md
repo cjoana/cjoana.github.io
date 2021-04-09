@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: ""
 toc: false
 categories: cosmo-blog
