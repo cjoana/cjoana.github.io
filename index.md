@@ -17,11 +17,11 @@ I am a doctoral researcher interested in numerical relativity and cosmology. I s
 
 I enjoy a FNRS-FRIA grant to do my research at UCLouvain, [CURL](https://curl.group) in Belgium.
 
-I am also very passionate about neuroscience. I the past, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center. The collaboration is still ongoing, I am part of the Active vision project.
+I am also very passionate about neuroscience. In the past, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center. The collaboration is still ongoing, I am part of the Active vision project.
 
 You can find my research and codes in [GitHub](https://github.com/cjoana).
 
-I am also a Chess enthusiast and I usually play in [Chess.com](https://www.chess.com/member/cjoana). 
+I am also a chess enthusiast and I usually play in [Chess.com](https://www.chess.com/member/cjoana). 
 
 ### Research
 
@@ -34,8 +34,8 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Quantum Mechanics**: Quantum open systems; decoherence; exciton-polaritons.
 </div>
 <div class="infocolumn" markdown="block">
-- **Visual Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding.
-- **Systems Neurosciecne**: Neural coding, information processing; electrophysiology;
+- **Cognitive Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding.
+- **Systems Neurosciencne**: Neural coding, information processing; electrophysiology;
 - **Computational Neuroscience**: Neural networks codes, NEST; Statistical and data analysis; 
 
 
