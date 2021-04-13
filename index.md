@@ -30,13 +30,13 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <div class="inforow">
 <div class="infocolumn" markdown="block">
 - **Cosmology**: Early universe, inflation; primordial black holes.
-- **General Relativity**: Hydro-GR codes; backreations, compact objects & topological defects.
-- **Quantum Mechanics**: Quantum open systems; decoherence; exciton-polaritons.
+- **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
+- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology.
 </div>
 <div class="infocolumn" markdown="block">
 - **Cognitive Neuroscience**: Perception; active vision; ventral visual pathway; predictive coding.
 - **Systems Neuroscience**: Neural coding, information processing; electrophysiology;
-- **Computational Neuroscience**: Neural networks codes, NEST; Statistical and data analysis; 
+- **Computational Neuroscience**: Neural networks codes; Statistical and data analysis; 
 
 
 </div>
