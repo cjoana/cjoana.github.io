@@ -78,7 +78,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
 
-- [Sebastien Clesse](https://curl.group/members/clesse.html) (UCLovain-CURL)
+- [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
 - [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
