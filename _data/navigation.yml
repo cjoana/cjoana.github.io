@@ -8,9 +8,9 @@
 #  url: /neuro/
 #  excerpt: "Articles and posts about neuroscience"
   
-#- title: CV
-#  url: https://github.com/cjoana/...
-#  excerpt: "My Curriculum Vitae"
+- title: CV
+  url: https://github.com/cjoana/cjoana.github.io/tree/master/CV/CV_Cristian_Joana.pdf
+  excerpt: "My Curriculum Vitae"
   
   
 #- title: Teaching
