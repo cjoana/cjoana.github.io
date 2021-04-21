@@ -34,7 +34,6 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology.
 </div>
 <div class="infocolumn" markdown="block">
-- **Cognitive Neuroscience**: Perception; active sensing; predictive coding.
 - **Systems Neuroscience**: Neural coding; vision; electrophysiology;
 - **Computational Neuroscience**: Neural networks codes; Statistical and data analysis; 
 
