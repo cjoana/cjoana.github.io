@@ -13,15 +13,18 @@ title: " "
 # [About me](/about)
 
 
-I am a doctoral researcher interested in numerical relativity and cosmology. I study topics of the early Universe such as inflation and possible observables from primordial black holes, cosmic strings, and more. Most of my work is performing numerical simulations, where I use the GRChombo code and I contribute to its development and maintenance.
+I am a doctoral researcher interested in numerical relativity and cosmology under the supervision of Christophe Ringeval and Sebastien Clesse. I am affiliated to UCLouvian - [CURL](https://curl.group), located at the beautiful town of Louvain-la-Neuve, in Belgium. 
 
-I enjoy a FNRS-FRIA grant to do my research at UCLouvain, [CURL](https://curl.group) in Belgium.
+In my work I performe numerical simulations to study different topics of the early universe. During the first year of my PhD, I studied the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)). Currently my reaserch focuses on multi-field inflation, the reheating and also primordial black hole formation. I am a developer of [GRChombo](https://www.grchombo.org), the numerical relativity code I use for my simulations.
 
-I am also very passionate about neuroscience. In the past, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center. The collaboration is still ongoing, I am part of the Active vision project.
+In the past, I enjoyed working in other interdisciplinary areas: 
 
-You can find my research and codes in [GitHub](https://github.com/cjoana).
+* From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Together with [Pedro Maldonado](https://neurosistemas.cl) in U. Chile, we are finalising a manuscript that should be posted soon.    
+ 
+* Earlier, in 2012, I enjoyed an internship grant to work in [Tim Byrnes Lab](https://nyu.timbyrnes.net) for quantum computing, previously located at the NII in Tokyo (currenlty at NYU-Shanghai). Together we wrote a [paper](https://arxiv.org/abs/1612.00629) on producing steady-state negative Wigner function light within exciton-polariton systems. Such methodologies  could be used in the context of continuous-variables in quantum computing.        
 
-I am also a chess enthusiast and I usually play in [Chess.com](https://www.chess.com/member/cjoana). 
+
+Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy),  my research and codes in [GitHub](https://github.com/cjoana), or challenge me to a chess game in [Chess.com](https://www.chess.com/member/cjoana). 
 
 ### Research
 
@@ -31,13 +34,12 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <div class="infocolumn" markdown="block">
 - **Cosmology**: Early universe, inflation; primordial black holes.
 - **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
-- **Numerical relativity**: Hydro-GR codes, strong gravity regime, applications to cosmology.
+- **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.
 </div>
 <div class="infocolumn" markdown="block">
 - **Systems Neuroscience**: Neural coding; vision; electrophysiology;
-- **Computational Neuroscience**: Neural networks codes; Statistical and data analysis; 
-
-
+- **Computational Neuroscience**: Neural networks codes; statistical and data analysis; 
+- **Condensed-matter physics**: Exciton-polaritons, quantum open systems. 
 </div>
 </div> <!-- /.inforow -->
 
