@@ -6,7 +6,7 @@ permalink: /
 title: " "
 ---
 
-<img style="float: left; padding-right:50px;" src="images/cjoana.png">
+<img style="float: left; padding-right:50px;" src="images/prof_2.png">
 
 
 
