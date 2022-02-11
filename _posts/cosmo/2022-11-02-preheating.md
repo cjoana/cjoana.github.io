@@ -12,22 +12,22 @@ image:
 
 New study on Higgs preinflationary and preheating dynamics using numerical General Relativity. 
 
-{:refdef: style="text-align: justify;"}
+<p text-align= "justify">
 
 The inflationary paradigm postulates an early phase  of accelerated expansion of the Universe. Such a period provides an explanation for the observed large-scale homogeneity and flatness in the cosmos. 
 After the end of inflation, the universe would have gone through a phase where the energy of  the inflaton is transferred to Standard Model particles, heating up the universe (aggressively!)  leading to a bath of ultrarelativistic particles behaving like radiation.  This phase is known as reheating. 
 
-Where traditionally the problem of initial condition for inflation (i.e.  Can inflation start from highly inhomogeneous initial conditions?) has been treated separately from studies of reheating,  they are still connected.   To allow for a  parametric-type reheating,  i.e.  through resonances occurring while oscillating the bottom of the potential,  the inflaton must be allowed to interact with (or decay to) other fields.  So, again, once could raise the question: Shouldn't  these interactions be present also during inhomogeneous preinflation? Do they prevent cosmic inflation in the first place?
+Traditionally the problem of initial condition for inflation (i.e.  Can inflation start from highly inhomogeneous initial conditions?) has been treated separately from studies of reheating,  they are still connected.   To allow for a  parametric-type reheating,  i.e.  through resonances occurring while oscillating the bottom of the potential,  the inflaton must be allowed to interact with (or decay to) other fields.  So, again, once could raise the question: Shouldn't  these interactions be present also during inhomogeneous preinflation? Do they prevent cosmic inflation in the first place?
 
 In our previous paper Ref. [1], Sebastien and I studied the robustness of *single-field* Higgs inflation to inhomogeneous initial conditions of all sizes. We paid attention to the gravitational dynamics of the system, showing the possible formation of pre-inflationary black holes, as well as the generation of shear/tensor modes in the metric. In short, we showed that these gravitational dynamics can delay the beginning of inflation, but never prevent it  (see full post). 
 
 In the new paper, Ref. [2],  I expanded the previous settings by adding an extra spectator field into the Higgs inflation model, which allows the reheating of the Universe. I showed that reheating is successful for a given range of the field-field interaction strength, and then the same model is confronted to various preinflationary settings.  Naturally, I wanted to do this while considering full General Relativity, and to analyse the interplay between the matter sector (scalar fields) and the  non-linear gravitational dynamics. 
+</p>
 
-{: refdef}
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/Reh_01.png" alt="fig ecm" width="600"/>
+<img src="/images/Reh_01.png" alt="fig ecm" width="800"/>
 </p>
 
 <p align = "center">
