@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title:  "The wibbly-wobbly timey-wimey preinflationary era"
 date:   2020-07-05
 categories: cosmo
@@ -36,7 +36,7 @@ These modes are found to decay slower than the energy density of the field and c
 
 Our analysis further supports the robustness of inflation to any size of inhomogeneity, in the field, velocity or equation-of-state. At large scalar field values, the pre-inflation dynamics only marginally depends on the field potential and it is expected that such behaviour is universal and it applies to any inflation potential of plateau-type, as the ones favoured by the CMB observations after Planck.
 
-
+<br/><br/>
 
 #### References:
 
