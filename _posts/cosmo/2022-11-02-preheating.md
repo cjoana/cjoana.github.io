@@ -13,8 +13,10 @@ image:
 New study on Higgs preinflationary and preheating dynamics using numerical General Relativity. 
 
 
+{:refdef: style="text-align: justify;"}
 The inflationary paradigm postulates an early phase  of accelerated expansion of the Universe. Such a period provides an explanation for the observed large-scale homogeneity and flatness in the cosmos. 
 After the end of inflation, the universe would have gone through a phase where the energy of  the inflaton is transferred to Standard Model particles, heating up the universe (aggressively!)  leading to a bath of ultrarelativistic particles behaving like radiation.  This phase is known as reheating. 
+{: refdef}
 
 Traditionally the problem of initial condition for inflation (i.e.  Can inflation start from highly inhomogeneous initial conditions?) has been treated separately from studies of reheating,  they are still connected.   To allow for a  parametric-type reheating,  i.e.  through resonances occurring while oscillating the bottom of the potential,  the inflaton must be allowed to interact with (or decay to) other fields.  So, again, once could raise the question: Shouldn't  these interactions be present also during inhomogeneous preinflation? Do they prevent cosmic inflation in the first place?
 
