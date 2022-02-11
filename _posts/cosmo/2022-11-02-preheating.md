@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title:  "New paper on Higgs pre-inflation and reheating of the Universe"
 date:   2022-02-11
 categories: cosmo
