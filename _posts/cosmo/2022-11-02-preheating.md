@@ -22,7 +22,7 @@ In our previous paper Ref. [1], Sebastien and I studied the robustness of *singl
 In the new paper, Ref. [2],  I expanded the previous settings by adding an extra spectator field into the Higgs inflation model, which allows the reheating of the Universe. I showed that reheating is successful for a given range of the field-field interaction strength, and then the same model is confronted to various preinflationary settings.  Naturally, I wanted to do this while considering full General Relativity, and to analyse the interplay between the matter sector (scalar fields) and the  non-linear gravitational dynamics. 
 
 {:refdef: style="text-align: center;"}
-<img src="/images/Reh_01.png" alt="fig ecm" width="400"/>
+<img src="/images/Reh_01.png" alt="fig ecm" width="600"/>
 {: refdef}
 
 
