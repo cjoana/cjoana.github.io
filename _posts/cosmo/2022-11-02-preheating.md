@@ -23,9 +23,7 @@ In the new paper, Ref. [2],  I expanded the previous settings by adding an extra
 
 {:refdef: style="text-align: center;"}
 <img src="/images/Reh_01.png" alt="fig ecm" width="600"/>
-<p align = "center">
-Energy transfer to perturbation modes (left), example of structure formation after ~2.9 efolds (right)
-</p>
+ Fig.1 Energy transfer to perturbation modes (left), example of structure formation after ~2.9 efolds (right)
 {: refdef}
 
 
