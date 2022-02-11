@@ -16,3 +16,5 @@ ads: false
 ## Posts
 
 - [The wibbly-wobbly timey-wimey preinflationary era](/cosmo/preinflation/)
+- [New paper on Higgs preinflation and the reheating of the Universe](/cosmo/preheating/)
+
