@@ -12,6 +12,8 @@ image:
 
 New study on Higgs preinflationary and preheating dynamics using numerical General Relativity. 
 
+{:refdef: style="text-align: justify;"}
+
 The inflationary paradigm postulates an early phase  of accelerated expansion of the Universe. Such a period provides an explanation for the observed large-scale homogeneity and flatness in the cosmos. 
 After the end of inflation, the universe would have gone through a phase where the energy of  the inflaton is transferred to Standard Model particles, heating up the universe (aggressively!)  leading to a bath of ultrarelativistic particles behaving like radiation.  This phase is known as reheating. 
 
@@ -21,13 +23,23 @@ In our previous paper Ref. [1], Sebastien and I studied the robustness of *singl
 
 In the new paper, Ref. [2],  I expanded the previous settings by adding an extra spectator field into the Higgs inflation model, which allows the reheating of the Universe. I showed that reheating is successful for a given range of the field-field interaction strength, and then the same model is confronted to various preinflationary settings.  Naturally, I wanted to do this while considering full General Relativity, and to analyse the interplay between the matter sector (scalar fields) and the  non-linear gravitational dynamics. 
 
+{: refdef}
+
 {:refdef: style="text-align: center;"}
+<p align = "center">
 <img src="/images/Reh_01.png" alt="fig ecm" width="600"/>
- Fig.1 Energy transfer to perturbation modes (left), example of structure formation after ~2.9 efolds (right)
+</p>
+
+<p align = "center">
+Fig. 1 Energy transfer to perturbation modes (left),
+example of structure formation after ~2.9 efolds (right)
+</p>
 {: refdef}
 
 
 So, does inflation still begin or not?  ...  (To Be Continued) 
+
+
 
 
 #### References:
