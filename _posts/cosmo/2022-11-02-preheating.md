@@ -48,7 +48,7 @@ When simulating inhomogeneous multi-field preinflationary epochs, we confirm tha
 </p>
 
 <p align = "center">
-Fig. 2 Gravitational and scalar-field dyanmics during pre-inflation.
+Fig. 2 Gravitational and scalar-field dyanmics during pre-inflation. Two simulations are shown, one with super-Hubble initial conditions (left) and another with (large) sub-Hubble size inhomogeneities.
 </p>
 {: refdef}
 
