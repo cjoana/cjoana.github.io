@@ -50,7 +50,7 @@ All in all, these investigations further confirm the robustness of Higgs inflati
 </p>
 
 <p align = "center">
-Fig. 2 Gravitational and scalar-field dyanmics during pre-inflation. Two simulations are shown, one with super-Hubble initial conditions (left) and another with (large) sub-Hubble size inhomogeneities.
+Fig. 2 Gravitational and scalar-field dyanmics during pre-inflation. Two simulations are shown, one with super-Hubble initial conditions (left) and another with sub-Hubble size inhomogeneities (right).  
 </p>
 {: refdef}
 
