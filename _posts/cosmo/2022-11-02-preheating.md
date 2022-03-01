@@ -44,7 +44,7 @@ When simulating inhomogeneous multi-field preinflationary epochs, we confirm tha
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/mf_preinf.png" alt="fig ecm" width="400"/>
+<img src="/images/mf_preinf.png" alt="fig ecm" width="800"/>
 </p>
 
 <p align = "center">
