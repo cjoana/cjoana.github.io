@@ -38,7 +38,9 @@ example of structure formation after ~2.9 efolds (right)
 
 &nbsp;
 
-When simulating inhomogeneous multi-field preinflationary epochs, we confirm that the Higgs non-minimal coupling to gravity acts as a stabilizer as it *washes out* the energy contribution of the other (minimally coupled) mater/scalar-field sectors. In the paper,  it is shown that this occurs naturally when one canonically normalizes the fields in the Einstein frame. This effect generalizes the dynamics of  inhomogeneous extra-matter components, making them sub-dominant in comparison to the inflaton ensuring the onset of inflation. 
+When simulating inhomogeneous multi-field preinflationary epochs, we confirm that the Higgs non-minimal coupling to gravity acts as a stabilizer as it *washes out* the energy contribution of the other (minimally coupled) mater/scalar-field sectors. In the paper,  it is shown that this occurs naturally when one canonically normalizes the fields in the Einstein frame. This effect generalizes the dynamics of  inhomogeneous extra-matter components, making them sub-dominant in comparison to the inflaton. 
+&nbsp;
+All in all, these investigations further confirm the robustness of Higgs inflation to multi-field inhomogeneous initial conditions, while putting in evidence the formation of complex structures during the reheating.
 
 &nbsp;
 
