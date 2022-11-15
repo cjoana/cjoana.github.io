@@ -57,7 +57,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 #### Current Teaching
 
-- [Tutorial of Quantum mechanics II](https://uclouvain.be/en-cours-2021-lphys1342)
+- None. 
 
 #### Past Teaching
 
