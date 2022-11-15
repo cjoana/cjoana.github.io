@@ -15,9 +15,9 @@ title: " "
 # [About me](/about)
 
 
-I am a doctoral researcher interested in numerical relativity and cosmology under the supervision of [Christophe Ringeval](https://curl.group/members/chris.html) and [Sebastien Clesse](https://sebclesse.wixsite.com/clesse). I am affiliated to UCLouvian - [CURL](https://curl.group), located at the beautiful town of Louvain-la-Neuve, in Belgium. 
+I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated to the University of Louvain, UCLouvian - [CURL](https://curl.group), located at the beautiful town of Louvain-la-Neuve, in Belgium. 
 
-In my work I performe numerical simulations to study different topics of the early universe. During the first year of my PhD, I studied the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently my reaserch focuses on multi-field inflation, the reheating and also primordial black hole formation. I am a developer of [GRChombo](https://www.grchombo.org), the numerical relativity code I use for my simulations.
+In my work I performe numerical simulations to study different topics of the early universe. During my PhD, I studied the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and the reheating in the form of primordial gravitaitonal waves or the formation of exotic compact objects and/or primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), the numerical relativity code I use for my simulations.
 
 In the past, I enjoyed working in other interdisciplinary areas: 
 
@@ -52,7 +52,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 <div class="infocolumn2" markdown="block" style="background-color: #F0F0F0;">
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Notes </h4>
 
-- Thesis (soon)
+- Thesis: [here](https://arxiv.org/abs/2211.03534).
 
 
 #### Current Teaching
