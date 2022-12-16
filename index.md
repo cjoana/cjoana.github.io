@@ -14,7 +14,7 @@ title: " "
 
 # [About me](/about)
 
-**UPDATE: I am currently moving to ITP-CAS in Beijing for next post-doc. I will be updating soon! :) **
+<strong>UPDATE: I am currently moving to ITP-CAS in Beijing for next post-doc.</strong> I will be updating soon! :)
 
 I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated to the University of Louvain, UCLouvian - [CURL](https://curl.group), located at the beautiful town of Louvain-la-Neuve, in Belgium. 
 
