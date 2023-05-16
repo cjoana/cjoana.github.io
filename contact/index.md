@@ -13,9 +13,10 @@ ads: false
 ---
 
 
-<-!--  {:refdef: style="text-align: "}     your comment -->
-<-!--   <img  src="/images/ITP-CAS.jpeg" alt="fig bh" width="600"/>     your comment -->
-<-!--   {: refdef}          your comment -->
+{:refdef: style="text-align: "}    
+<img  src="/images/ITP-CAS_bloss.jpg" alt="fig bh" width="600"/>    
+{: refdef}  
+<-!--           your comment -->
 
 ## Address
 
