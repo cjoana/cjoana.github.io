@@ -23,8 +23,7 @@ ads: false
 Cristian Joana, \\
 Institute of Theoretical Physics - Chinese Academy of Science (ITP-CAS), \\
 Chinese Academy of Science,  \\
-Beijing, \\
-P.R. China.
+Beijing, P.R. China.
 
 E-mail: cristian.joana (♣) itp.ac.cn  
 
