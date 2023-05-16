@@ -14,11 +14,11 @@ title: " "
 
 # [About me](/about)
 
-<strong>UPDATE: I am currently moving to ITP-CAS in Beijing for next post-doc.</strong> I will be updating soon! :)
+<strong>UPDATE: I am currently moving to ITP-CAS in Beijing for next post-doc.</strong>. This page is currently being updated :)
 
-I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated to the University of Louvain, UCLouvian - [CURL](https://curl.group), located at the beautiful town of Louvain-la-Neuve, in Belgium. 
+I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing. 
 
-In my work I performe numerical simulations to study different topics of the early universe. During my PhD, I studied the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and the reheating in the form of primordial gravitaitonal waves or the formation of exotic compact objects and/or primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), the numerical relativity code I use for my simulations.
+In my work I use numerical tools like numerical relativity simulations to study and test different models and phenomena of the early Universe. During my PhD, I focused on the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and inprints from the reheating in the form of primordial gravitaitonal waves, as well as the formation of exotic compact objects, including primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), a public, open-source numerical relativity code I frequently use in my works. 
 
 In the past, I enjoyed working in other interdisciplinary areas: 
 
