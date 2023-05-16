@@ -13,18 +13,18 @@ ads: false
 ---
 
 
-{:refdef: style="text-align: "}
-<img  src="/images/IRMP_snow_orig.jpeg" alt="fig bh" width="600"/>
-{: refdef}
+<-!--  {:refdef: style="text-align: "}     your comment -->
+<-!--   <img  src="/images/IRMP_snow_orig.jpeg" alt="fig bh" width="600"/>     your comment -->
+<-!--   {: refdef}          your comment -->
 
 ## Address
 
-Cristian Joana \\
-Cosmology, Universe and Relativity at Louvain (CURL) \\
-University of Louvain \\
-Louvain-la-Neuve, 1348 \\
-Belgium
+Cristian Joana, \\
+Institute of Theoretical Physics - Chinese Academy of Science (ITP-CAS), \\
+Chinese Academy of Science,  \\
+Beijing, \\
+P.R. China.
 
-E-mail: cristian.joana (at) uclouvain.be
+E-mail: cristian.joana (♣) itp.ac.cn  
 
 [GitHub/cjoana](https://github.com/cjoana), [Twitter](https://twitter.com/cjphy), [arXiv](https://arxiv.org/search/?searchtype=author&query=Joana%2C+C), [InspireHEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Joana.1)
