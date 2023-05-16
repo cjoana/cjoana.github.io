@@ -14,7 +14,7 @@ ads: false
 
 
 <-!--  {:refdef: style="text-align: "}     your comment -->
-<-!--   <img  src="/images/IRMP_snow_orig.jpeg" alt="fig bh" width="600"/>     your comment -->
+<-!--   <img  src="/images/ITP-CAS.jpeg" alt="fig bh" width="600"/>     your comment -->
 <-!--   {: refdef}          your comment -->
 
 ## Address
