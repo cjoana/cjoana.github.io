@@ -16,7 +16,7 @@ ads: false
 {:refdef: style="text-align: "}    
 <img  src="/images/ITP-CAS_bloss.jpg" alt="fig bh" width="600"/>    
 {: refdef}  
-<-!--           your comment -->
+<!--           your comment -->
 
 ## Address
 
