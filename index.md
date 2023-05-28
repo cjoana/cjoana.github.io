@@ -88,7 +88,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
 
 
-- [Christian Keup](https://www.fz-juelich.de/profile/keup_c) (Juelich)
+- [Christian Keup](https://people.epfl.ch/christian.keup?lang=en) (EPFL)
 - [Junji Ito](https://www.fz-juelich.de/profile/ito_j) (Juelich)
 - [Sonja Gruen](https://www.fz-juelich.de/profile/gruen_s) (Juelich)
 - [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
