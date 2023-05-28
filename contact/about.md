@@ -16,12 +16,11 @@ ads: false
 ## Address
 
 Cristian Joana
-Doctoral Researcher (FRIA)
-Cosmology, Universe and Relativity at Louvain (CURL) 
-University of Louvain
-Louvain-la-Neuve, 1348
-Belgium
+Postdoctoral Researcher 
+Institute of Theoretical Physics, 
+Chinese academy of Science, 
+Bejing, P.R. China.
 
-E-mail: cristian.joana (at) uclouvain.be
+E-mail: cristian.joana (-at-) itp.ac.cn
 
 [GitHub/cjoana](https://github.com/cjoana), [Twitter](https://twitter.com/cjphy), [arXiv](https://arxiv.org/search/?searchtype=author&query=Joana%2C+C), [InspireHEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Joana.1)
