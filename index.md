@@ -14,7 +14,6 @@ title: " "
 
 # [About me](/about)
 
-<strong>UPDATE: I am currently moving to ITP-CAS in Beijing for next post-doc.</strong>. This page is currently being updated :)
 
 I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing. 
 
@@ -62,7 +61,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 #### Past Teaching
 
-- [Tutorial of Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342)
+- [Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342)
 
 - [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
 - [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
@@ -81,7 +80,7 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
-
+- [Shi Pi](https://stonepi.github.io/) (ITP-CAS)
 - [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
