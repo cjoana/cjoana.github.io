@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-<img title="" src="./images/cjoana.jpg" alt="" class="floatpic" width="360" height="480">
+<img title="" src="./images/cjoana.jpeg" alt="" class="floatpic" width="360" height="480">
 
 Welcome to **Cristian Joana**'s homepage. 
 
