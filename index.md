@@ -1,29 +1,26 @@
 ---
-layout: home
-image:
-  feature: myback.jpg
-permalink: /
-title: " "
+layout: page
 ---
 
-<img style="float: left; padding-right:50px;" src="images/prof_3.jpeg" width="400" >
+# Cristian Joana's Homepage
 
+---
 
+<img title="" src="./images/cjoana.jpg" alt="" class="floatpic" width="360" height="480">
 
+Welcome to **Cristian Joana**'s homepage. 
 
-
-# [About me](/about)
-
-
-I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing. 
+I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing.
 
 In my work I use numerical tools like numerical relativity simulations to study and test different models and phenomena of the early Universe. During my PhD, I focused on the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and inprints from the reheating in the form of primordial gravitaitonal waves, as well as the formation of exotic compact objects, including primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), a public, open-source numerical relativity code I frequently use in my works. 
+
 
 In the past, I enjoyed working in other interdisciplinary areas: 
 
 * From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Check out this [paper](https://www.nature.com/articles/s41598-022-09405-4) for more information.   
  
 * Earlier, in 2012, I enjoyed an internship grant to work in [Tim Byrnes Lab](https://nyu.timbyrnes.net) for quantum computing, previously located at the NII in Tokyo (currenlty at NYU-Shanghai). Together we wrote a [paper](https://arxiv.org/abs/1612.00629) on producing steady-state negative Wigner function light within exciton-polariton systems. Such methodologies  could be used in the context of continuous-variables in quantum computing.        
+
 
 
 Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy),  my research and codes in [GitHub](https://github.com/cjoana), or challenge me to a chess game in [Chess.com](https://www.chess.com/member/cjoana). 
@@ -46,15 +43,6 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 </div> <!-- /.inforow -->
 
 ---
-
-<div class="inforow">
-
-<div class="infocolumn2" markdown="block" style="background-color: #F0F0F0;">
-<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Notes </h4>
-
-- Thesis: [here](https://arxiv.org/abs/2211.03534).
-
-
 #### Current Teaching
 
 - None. 
@@ -93,19 +81,19 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
 
 
-
 </div>
 </div> <!-- /.inforow -->
 
+## News and Updates
 
-## Recently in this website ...
+#### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
-<div class="tiles">
-{% for post in site.posts limit:32 %}
-   {% if post.title != empty %}
-	{% include post-grid.html %}
-   {% endif %}
-{% endfor %}
-</div><!-- /.tiles -->
+- **March 15:** The website has a new look! 
+
+
+
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcjoana.github.io&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---

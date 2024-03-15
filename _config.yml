@@ -1,68 +1,97 @@
-# Site wide configuration
+title: Cristian Joana
+description: Personal website. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# moto: Two roads diverged in woods, I took the one less traveled by.
+#Comment out url when working locally to resolve base urls correctly
+url: https://cjoana.github.io
 
-title: "Cristian Joana"
-description: "Personal & professional webpage of Cristian Joana"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cjoana.github.io"
-twitter_username: cjphy
-github_username:  cjoana
-locale: en
-url:
-feed:
-  path: atom.xml
-
-# Jekyll configuration
-
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-plugins:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-
-# Site owner
-owner: 
-  name: "Cristian Joana"
-  email: "cristian.joana_at_uclouvain.be"
+# Owner/author information
+owner:
+  name: Cristian Joana
+  avatar: Head2inch.jpg
+ # bio:
+  email: cristian.joana@itp.ac.cn
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: cjphy
+  github: cjoana
+  linkedin: www.linkedin.com/in/cristian-joana-0564331a4
+  scholar: https://scholar.google.com/citations?user=rvEBEAwAAAAJ&hl=en&oi=sra
+  # instagram: 
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
+
+# Analytics and webmaster tools stuff goes here
+# https://search.google.com/search-console/ownership
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+# google_analytics:
+  # measurement_id: G-RB3GF10JHH
+
+analytics:
+  provider: "google-gtag"
   google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: prof_1.png # 160x160 px image for author byline
-  disqus-shortname:
+    tracking_id: "G-RB3GF10JHH"
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Resume
+    url: /pdf/cv.pdf
+  - title: Publications
+    url: /publications/
+  # - title: Group
+  #   url: /group/
+  - title: Fundings
+    url: /fundings/
+  - title: Hobbies
+    url: /hobbies/
+  # - title: Essays
+  #   url: /essays/
+  - title: Blogs
+    url: /blogs/
+  - title: Contact
+    url: /contact/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
 
 
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+
+# disqus settings:
+disqus:
+  shortname: 
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# Latest update in 2023/08/28 by Hanlin Cai.
