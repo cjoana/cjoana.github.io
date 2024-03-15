@@ -3,7 +3,8 @@ audio,canvas,video{display:inline-block;}
 audio:not([controls]){display:none;height:0;}
 [hidden]{display:none;}
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
-body{margin:0;}
+/*body{margin:0;}  */
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
 h1{font-size:2em;margin:0.67em 0;}
