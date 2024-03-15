@@ -8,25 +8,28 @@ layout: page
 
 <img title="" src="./images/cjoana.jpeg" alt="" class="floatpic" width="360" height="480">
 
+\\
 Welcome to **Cristian Joana**'s homepage. 
 
+\\
 I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing.
 
+\\
 In my work I use numerical tools like numerical relativity simulations to study and test different models and phenomena of the early Universe. During my PhD, I focused on the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and inprints from the reheating in the form of primordial gravitaitonal waves, as well as the formation of exotic compact objects, including primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), a public, open-source numerical relativity code I frequently use in my works. 
 
-
+\\
 In the past, I enjoyed working in other interdisciplinary areas: 
 
 * From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Check out this [paper](https://www.nature.com/articles/s41598-022-09405-4) for more information.   
  
 * Earlier, in 2012, I enjoyed an internship grant to work in [Tim Byrnes Lab](https://nyu.timbyrnes.net) for quantum computing, previously located at the NII in Tokyo (currenlty at NYU-Shanghai). Together we wrote a [paper](https://arxiv.org/abs/1612.00629) on producing steady-state negative Wigner function light within exciton-polariton systems. Such methodologies  could be used in the context of continuous-variables in quantum computing.        
 
-
-
+\\
 Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy),  my research and codes in [GitHub](https://github.com/cjoana), or challenge me to a chess game in [Chess.com](https://www.chess.com/member/cjoana). 
 
 ### Research
 
+\\
 I have a wide range of interdisciplinary research interests. These reflect some of my latest publications:
 
 <div class="inforow">
