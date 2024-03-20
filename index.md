@@ -24,7 +24,7 @@ In my work I use numerical tools like numerical relativity simulations to study 
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/Reh_01.png" alt="fig ecm" width="800"/>
+<img src="/images/ITPgroup2023.jpg" alt="ITP group" width="800"/>
 </p>
 
 <p align = "center">
