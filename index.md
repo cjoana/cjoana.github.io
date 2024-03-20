@@ -85,7 +85,6 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - [Sonja Gruen](https://www.fz-juelich.de/profile/gruen_s) (Juelich)
 - [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
 
-
 </div>
 </div> <!-- /.inforow -->
 

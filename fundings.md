@@ -4,7 +4,7 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-Update: Feb 20, 2024     
+Last Update: March 15, 2024   
 
 ## Current
 

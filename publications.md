@@ -6,7 +6,7 @@ title: Publications
 ---
 
 \\
-Lastest Update: 15th March 2024
+Last Update: 15th March 2024
 
 \\
 For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/2007073?ui-citation-summary=true) or [GScholars](https://scholar.google.com/citations?user=rvEBEAwAAAAJ&hl=en&oi=sra).
