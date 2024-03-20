@@ -19,6 +19,23 @@ I am a post-doctoral researcher interested in numerical relativity and cosmology
 \\
 In my work I use numerical tools like numerical relativity simulations to study and test different models and phenomena of the early Universe. During my PhD, I focused on the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and inprints from the reheating in the form of primordial gravitaitonal waves, as well as the formation of exotic compact objects, including primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), a public, open-source numerical relativity code I frequently use in my works. 
 
+
+&nbsp;
+
+{:refdef: style="text-align: center;"}
+<p align = "center">
+<img src="/images/Reh_01.png" alt="fig ecm" width="800"/>
+</p>
+
+<p align = "center">
+November 2023, the [cosmology group at ITP](https://stonepi.github.io) with our guest Prof. Teruaki Suyama (TITech). 
+</p>
+{: refdef}
+
+&nbsp;
+
+
+
 \\
 In the past, I enjoyed working in other interdisciplinary areas: 
 
