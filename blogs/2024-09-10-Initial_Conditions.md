@@ -22,7 +22,7 @@ In my latest paper, [arXiv:2406.00811](https://arxiv.org/abs/2406.00811), we ext
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/WCSFf.png" alt="fig ecm" width="800"/>
+<img src="/images/WCSF.png" alt="fig ecm" width="800"/>
 </p>
 
 <p align = "center">
