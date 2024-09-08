@@ -109,7 +109,8 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
-- **September 10:** New paper accepted in PRD. See [post](blogs/2024-09-10-InitialConditions.md). 
+- **September 10:** New paper accepted in PRD. See 
+[post](blogs/2024-09-10-Initial_Conditions). 
 
 - **August 15:** My grant application for NSFC (RFIS I) has been accepted. 
 
