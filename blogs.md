@@ -10,6 +10,8 @@ title: Blogs
 
 ---
 
+- [New paper: Beginning inflation with conformally curved spacetimes.](blogs/2024-09-10-InitialConditions.md)
+
 - [New paper: Gravitational dynamics of pre-inflation and preheating.](blogs/2022-11-02-preheating.md)
 
 - [New paper: Inhomogeneous initial conditions for inflation.](blogs/2020-12-12-preinflation.md)
