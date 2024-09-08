@@ -4,9 +4,9 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# Index
+Last Update: September, 2024  
 
-
+## Index
 
 ---
 
