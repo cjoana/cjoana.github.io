@@ -13,7 +13,7 @@ For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/20
 
 ## Selected Papers (astropysics, cosmology)
 
-- <span style="color:blue;">*Were you born in an aborted primordial black hole?*</span>,<br>**Cristian Joana**. <br>Published in: TBA. ArXiv: [2401.09408 ](https://arxiv.org/abs/2401.09408).
+- <span style="color:blue;">*Beginning Inflation with conformally curved spacetimes*</span>,<br>**Cristian Joana**. <br>Published in: [Physical Review D](https://journals.aps.org/prd/accepted/04076Qf0G791d031072f6949cd71170c30a14fa1a). ArXiv: [2406.00811](https://arxiv.org/abs/2406.00811).
 
 - <span style="color:blue;">*Gravitational dynamics in Higgs inflation: Preinflation and preheating with an auxiliary fields*</span>,<br>**Cristian Joana**. <br>Published in: [Physical Review D, vol. 106, pp. 023504 (2022)](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.106.023504). ArXiv: [2211.03534](https://arxiv.org/abs/2211.03534).
 
