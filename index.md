@@ -56,9 +56,11 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Cosmology**: Early universe, inflation; primordial black holes.
 - **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
 - **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.
+</div>
 </div> <!-- /.inforow -->
 
 ---
+
 #### Current Teaching
 
 - None. 
@@ -104,14 +106,14 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
 
-- **April2025: New JCAP paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH). 
+- **April 2025**: New JCAP paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH)
 
-- **September 10:** New paper accepted in PRD. See 
+- **September 2024:** New paper accepted in PRD. See 
 [post](blogs/2024-09-10-Initial_Conditions). 
 
-- **August 15:** My grant application for NSFC (RFIS I) has been accepted. 
+- **August 2024:** My grant application for NSFC (RFIS I) has been accepted. 
 
-- **March 15:** The website has a new look! 
+- **March 2024:** The website has a new look! 
 
 
 
