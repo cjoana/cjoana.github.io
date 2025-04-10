@@ -56,12 +56,6 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 - **Cosmology**: Early universe, inflation; primordial black holes.
 - **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
 - **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.
-</div>
-<div class="infocolumn" markdown="block">
-- **Systems Neuroscience**: Neural coding; vision; electrophysiology;
-- **Computational Neuroscience**: Neural networks codes; statistical and data analysis; 
-- **Condensed-matter physics**: Exciton-polaritons, quantum open systems. 
-</div>
 </div> <!-- /.inforow -->
 
 ---
@@ -108,6 +102,9 @@ I have a wide range of interdisciplinary research interests. These reflect some 
 ## News and Updates
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
+
+
+- **April2025: New JCAP paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH). 
 
 - **September 10:** New paper accepted in PRD. See 
 [post](blogs/2024-09-10-Initial_Conditions). 
