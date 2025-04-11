@@ -46,16 +46,14 @@ In the past, I enjoyed working in other interdisciplinary areas:
 \\
 Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy),  my research and codes in [GitHub](https://github.com/cjoana), or challenge me to a chess game in [Chess.com](https://www.chess.com/member/cjoana). 
 
-### Research
-
-\\
-I have a wide range of interdisciplinary research interests. These reflect some of my latest publications:
+### Main Research Topics: 
 
 <div class="inforow">
 <div class="infocolumn" markdown="block">
 - **Cosmology**: Early universe, inflation; primordial black holes.
 - **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
 - **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.
+- **Interdiciplinary**: Quantum Physics, Quantum Open Systems, Neurosciences... 
 </div>
 </div> <!-- /.inforow -->
 
