@@ -39,7 +39,7 @@ November 2023, the cosmology group at ITP with our guest Prof. Teruaki Suyama (T
 \\
 In the past, I enjoyed working in other interdisciplinary areas: 
 
-* From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Check out this [paper](https://www.nature.com/articles/s41598-022-09405-4) for more information.   
+* From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Check out this [paper](https://www.nature.com/articles/s41598-022-09405-4) or this [one](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023) for more information.   
  
 * Earlier, in 2012, I enjoyed an internship grant to work in [Tim Byrnes Lab](https://nyu.timbyrnes.net) for quantum computing, previously located at the NII in Tokyo (currenlty at NYU-Shanghai). Together we wrote a [paper](https://arxiv.org/abs/1612.00629) on producing steady-state negative Wigner function light within exciton-polariton systems. Such methodologies  could be used in the context of continuous-variables in quantum computing.        
 
@@ -61,14 +61,13 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 
 #### Current Teaching
 
-- None. 
+- Supervising, mentoring PhD and MSc students.
 
 #### Past Teaching
 
-- [Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342)
-
-- [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
-- [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9)
+- [Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342) (years 2019-2021)
+- [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
+- [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
 
 
 </div>
@@ -78,23 +77,26 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 - [GRChombo Team](https://www.grchombo.org/)
 - [LISA](https://www.elisascience.org/)
 
-- [Active Vision](https://www.fz-juelich.de/inm/inm-6/EN/Forschung/Gruen/ActiveVision.html?nn=724916)
+- [Active Vision](https://www.fz-juelich.de/en/ias/ias-6/forschung/statistical-neuroscience/network-interactions-in-relation-to-vision-and-action)
 - [Elephant](http://neuralensemble.org/elephant)
 - [NEST](https://www.nest-simulator.org/)
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
 - [Shi Pi](https://stonepi.github.io/) (ITP-CAS)
+- [Shao-Jiang Wang](https://wangshaojiang.wordpress.com/) (ITP-CAS)
+- [Teruaki Suyama](https://sites.google.com/view/suyamateruakihomepage/) (Science Tokyo)
+- [Katy Clough](https://kaclough.github.io/) (QMUL)
+- [Eugene Lim](https://www.kcl.ac.uk/people/eugene-lim) (KCL)
 - [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
 - [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
 
-
 - [Christian Keup](https://people.epfl.ch/christian.keup?lang=en) (EPFL)
 - [Junji Ito](https://www.fz-juelich.de/profile/ito_j) (Juelich)
 - [Sonja Gruen](https://www.fz-juelich.de/profile/gruen_s) (Juelich)
-- [Pedro Maldonado](https://www.bni.cl/investigador.php?id=13) (Univ. Chile)
+- [Pedro Maldonado](https://neurosistemas.cl/2020/11/01/pedro-maldonado/) (Univ. Chile)
 
 </div>
 </div> <!-- /.inforow -->
