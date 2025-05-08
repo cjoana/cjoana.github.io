@@ -68,8 +68,7 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 - [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
 
 
-</div>
-<div class="infocolumnR" markdown="block">
+<div class="infocolumn" markdown="block">
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborations</h4>
 
 - [GRChombo Team](https://www.grchombo.org/)
@@ -97,7 +96,6 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 - [Pedro Maldonado](https://neurosistemas.cl/2020/11/01/pedro-maldonado/) (Univ. Chile)
 
 </div>
-</div> <!-- /.inforow -->
 
 ## News and Updates
 
