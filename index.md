@@ -48,14 +48,12 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 
 ### Main Research Topics: 
 
-<div class="inforow">
 <div class="infocolumn" markdown="block">
-- **Cosmology**: Early universe, inflation; primordial black holes.
-- **Gravitation**: Scalar-tensor theories; compact objects & topological defects.
-- **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.
-- **Interdiciplinary**: Quantum Physics, Quantum Open Systems, Neurosciences... 
+- **Cosmology**: Early universe, inflation; primordial black holes.  
+- **Gravitation**: Scalar-tensor theories; compact objects & topological defects.  
+- **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.  
+- **Interdisciplinary**: Quantum Physics, Quantum Open Systems, Neurosciences...
 </div>
-</div> <!-- /.inforow -->
 
 ---
 
