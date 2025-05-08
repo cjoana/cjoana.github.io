@@ -28,7 +28,7 @@ In my work I use numerical tools like numerical relativity simulations to study 
 </p>
 
 <p align = "center">
-November 2023, the cosmology group at ITP with our guest Prof. Teruaki Suyama (TITech). 
+November 2023, the cosmology group at ITP with our guest Prof. Teruaki Suyama (Science Tokyo). 
 </p>
 {: refdef}
 
