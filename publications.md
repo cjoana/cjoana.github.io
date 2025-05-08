@@ -6,14 +6,16 @@ title: Publications
 ---
 
 \\
-Last Update: 15th March 2024
+Last Update: 01th May 2025
 
 \\
 For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/2007073?ui-citation-summary=true) or [GScholars](https://scholar.google.com/citations?user=rvEBEAwAAAAJ&hl=en&oi=sra).
 
 ## Selected Papers (astropysics, cosmology)
 
-- <span style="color:blue;">*Beginning Inflation with conformally curved spacetimes*</span>,<br>**Cristian Joana**. <br>Published in: [Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.063534). ArXiv: [2406.00811](https://arxiv.org/abs/2406.00811).
+- <span style="color:blue;">*Primordial black holes and induced gravitational waves from logarithmic non-Gaussianity*</span>,<br> Ryoto Inui, **Cristian Joana**, Hayato Motohashi, Shi Pi, Yuichiro Tada, Shuichiro Yokoyama. <br>Published in: [JCAP 03 (2025) 021](https://iopscience.iop.org/article/10.1088/1475-7516/2025/03/021). ArXiv: [2411.07647](https://arxiv.org/pdf/2411.07647).
+
+- <span style="color:blue;">*Beginning inflation with conformally curved spacetimes*</span>,<br>**Cristian Joana**. <br>Published in: [Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.063534). ArXiv: [2406.00811](https://arxiv.org/abs/2406.00811).
 
 - <span style="color:blue;">*Gravitational dynamics in Higgs inflation: Preinflation and preheating with an auxiliary fields*</span>,<br>**Cristian Joana**. <br>Published in: [Physical Review D, vol. 106, pp. 023504 (2022)](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.106.023504). ArXiv: [2211.03534](https://arxiv.org/abs/2211.03534).
 
@@ -31,3 +33,13 @@ For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/20
 ## Books
 
 - <span style="color:blue;">*Cosmic inhomogeneities in the early Universe: A numerical relativity approach (PhD thesis)*</span>,<br>**Cristian Joana**. <br>Published in: [DIAL, Research Publications](http://hdl.handle.net/2078.1/266172). ArXiv: [2211.03534](https://arxiv.org/abs/2211.03534).
+
+
+---
+
+[![Hits](https://hits.sh/cjoana.github.io/publications.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/publications/)
+
+---
+
+
+

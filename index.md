@@ -117,6 +117,6 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcjoana.github.io&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
 
 ---

@@ -49,5 +49,4 @@ Stay tuned for new insights!
 1.  C. Joana (2024), Beginning Inflation from Inhomogeneous and Curved Spacetimes  [arXiv:2406.00811](https://arxiv.org/abs/2406.00811)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcjoana.github.io%2Fcosmo%2Fpreheating&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.sh/cjoana.github.io/blogs/2024-09-10-Initial_Conditions.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2024-09-10-Initial_Conditions/)
