@@ -10,14 +10,17 @@ layout: page
 <img title="" src="./images/cjoana.jpeg" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
-\\
 Welcome to **Cristian Joana**'s homepage. 
 
 \\
-I am a post-doctoral researcher interested in numerical relativity and cosmology. I am affiliated the Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS), located in Beijing.
+I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
 \\
-In my work I use numerical tools like numerical relativity simulations to study and test different models and phenomena of the early Universe. During my PhD, I focused on the initial conditions problem for cosmic inflation (see [paper](https://arxiv.org/abs/2011.12190) and [post](https://cjoana.github.io/cosmo/preinflation)), as well the process of preheating (see [paper](https://arxiv.org/abs/2202.07604) and [post](https://cjoana.github.io/cosmo/preheating)). Currently, my reaserch focuses on searching for observables from (multi-field) inflation, and inprints from the reheating in the form of primordial gravitaitonal waves, as well as the formation of exotic compact objects, including primordial black holes. I am a developer of [GRChombo](https://www.grchombo.org), a public, open-source numerical relativity code I frequently use in my works. 
+I am currently transitioning to a postdoctoral position at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
+
+\\
+I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog](https://cjoana.github.io/blogs/) pages where I write summaries of some of my publications. From time to time I make some video animation of my simulations, which can be found  youtube [here](https://www.youtube.com/n0ian).
+
 
 
 &nbsp;
@@ -36,32 +39,49 @@ November 2023, the cosmology group at ITP with our guest Prof. Teruaki Suyama (S
 
 
 
-\\
-In the past, I enjoyed working in other interdisciplinary areas: 
-
-* From 2016-2018, I have worked for the [INM-6](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) at the Juelich Research Center for neuroscience research in Germany. I helped with the modeling and analysis of electrophysiological data from macaque visual cortices in relation to the animal's eye movements during free-viewing. Check out this [paper](https://www.nature.com/articles/s41598-022-09405-4) or this [one](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023) for more information.   
- 
-* Earlier, in 2012, I enjoyed an internship grant to work in [Tim Byrnes Lab](https://nyu.timbyrnes.net) for quantum computing, previously located at the NII in Tokyo (currenlty at NYU-Shanghai). Together we wrote a [paper](https://arxiv.org/abs/1612.00629) on producing steady-state negative Wigner function light within exciton-polariton systems. Such methodologies  could be used in the context of continuous-variables in quantum computing.        
-
-\\
-Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy),  my research and codes in [GitHub](https://github.com/cjoana), or challenge me to a chess game in [Chess.com](https://www.chess.com/member/cjoana). 
-
-### Main Research Topics: 
-
-<div class="infocolumn" markdown="block">
-- **Cosmology**: Early universe, inflation; primordial black holes.  
-- **Gravitation**: Scalar-tensor theories; compact objects & topological defects.  
-- **Numerical relativity**: Hydro-GR codes, strong gravity regimes, applications to cosmology.  
-- **Interdisciplinary**: Quantum Physics, Quantum Open Systems, Neurosciences...
-</div>
 
 ---
 
-#### Current Teaching
+## Research Interests
+
+### Early Universe Phenomenology
+
+I study the dynamics of the very early Universe, including models of cosmic inflation and reheating/preheating. My work aims to connect theoretical models with observable imprints, such as scalar and tensor perturbations, through both analytical tools and numerical simulations.
+
+### Formation of Compact Objects
+
+I am particularly interested in the nonlinear dynamics that lead to the formation of exotic compact objects in the early Universe. This includes:
+- **Primordial black holes (PBHs)**
+- **Oscillons and Q-balls**
+- **Other nonperturbative phenomena arising in scalar field theories**
+
+These objects offer possible explanations for dark matter and probes into physics beyond the Standard Model.
+
+### Gravitational Waves from Cosmological Sources
+
+I study gravitational wave (GW) backgrounds arising from early Universe phenomena, including:
+- Second-order GWs induced by scalar perturbations
+- GWs from first-order phase transitions
+- Signals from oscillons and other nonperturbative structures
+
+I am particularly interested in the potential detectability of these signals by current and future observatories such as LISA, PTA, and advanced ground-based detectors.
+
+---
+
+## Interdisciplinary Research
+
+In addition to cosmology, I have worked on dynamical quantum systems, particularly exciton-polaritons in condensed matter settings. My contributions include theoretical modeling of coupled light-matter systems with nonlinear interactions. See our [paper](https://arxiv.org/abs/1612.00629) for more detailed information. 
+
+I have also explored **systems neuroscience**, focusing on how the brain processes visual information. My collaborators and I use advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
+
+---
+
+
+### Current Teaching
 
 - Supervising, mentoring PhD and MSc students.
 
-#### Past Teaching
+### Past Teaching
 
 - [Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342) (years 2019-2021)
 - [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
@@ -74,40 +94,37 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 - [GRChombo Team](https://www.grchombo.org/)
 - [LISA](https://www.elisascience.org/)
 
-- [Active Vision](https://www.fz-juelich.de/en/ias/ias-6/forschung/statistical-neuroscience/network-interactions-in-relation-to-vision-and-action)
-- [Elephant](http://neuralensemble.org/elephant)
-- [NEST](https://www.nest-simulator.org/)
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
+- [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
+- [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
+- [Jun Zhang](https://ictp-ap.org/profile/74) (ICTP-AP)
 - [Shi Pi](https://stonepi.github.io/) (ITP-CAS)
 - [Shao-Jiang Wang](https://wangshaojiang.wordpress.com/) (ITP-CAS)
 - [Teruaki Suyama](https://sites.google.com/view/suyamateruakihomepage/) (Science Tokyo)
 - [Katy Clough](https://kaclough.github.io/) (QMUL)
 - [Eugene Lim](https://www.kcl.ac.uk/people/eugene-lim) (KCL)
-- [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
-- [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
-- [Julien Lesgourgues](https://lesgourg.github.io/presentation.html) (RWTH-Aachen)
-- [Tim Byrnes](https://nyu.timbyrnes.net/) (NYU Shanghai)
-
-- [Christian Keup](https://people.epfl.ch/christian.keup?lang=en) (EPFL)
-- [Junji Ito](https://www.fz-juelich.de/profile/ito_j) (Juelich)
-- [Sonja Gruen](https://www.fz-juelich.de/profile/gruen_s) (Juelich)
-- [Pedro Maldonado](https://neurosistemas.cl/2020/11/01/pedro-maldonado/) (Univ. Chile)
 
 </div>
+
+---
+
 
 ## News and Updates
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
 
+- **May 2025**: New PRR paper on bubble-wall collisions with primordial black holes [arXiv:2406.05838](https://arxiv.org/abs/2406.05838). 
+
 - **April 2025**: New JCAP paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH)
 
-- **September 2024:** New paper accepted in PRD. See 
-[post](blogs/2024-09-10-Initial_Conditions). 
+- **January 2025**: Our new LISA review paper on PBHs is now published at Liv. Rev. Rel. [arXiv:2310.19857](https://arxiv.org/pdf/2310.19857)
 
-- **August 2024:** My grant application for NSFC (RFIS I) has been accepted. 
+- **September 2024:** New paper published in PRD on Initial conditions for Inflation. See [post](blogs/2024-09-10-Initial_Conditions). 
+
+- **August 2024:** My grant application for NSFC (RFIS I) has been successful. 
 
 - **March 2024:** The website has a new look! 
 
@@ -118,3 +135,4 @@ Finally, you can find some of my rants in [Twitter](https://twitter.com/cjphy), 
 [![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
 
 ---
+
