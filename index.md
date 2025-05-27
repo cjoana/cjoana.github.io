@@ -10,6 +10,7 @@ layout: page
 <img title="" src="./images/cjoana.jpeg" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
+\\
 Welcome to **Cristian Joana**'s homepage. 
 
 \\
@@ -51,9 +52,9 @@ I study the dynamics of the very early Universe, including models of cosmic infl
 ### Formation of Compact Objects
 
 I am particularly interested in the nonlinear dynamics that lead to the formation of exotic compact objects in the early Universe. This includes:
-- **Primordial black holes (PBHs)**
-- **Oscillons and Q-balls**
-- **Other nonperturbative phenomena arising in scalar field theories**
+- Primordial black holes (PBHs)
+- Oscillons and Q-balls
+- Other nonperturbative phenomena arising in scalar field theories
 
 These objects offer possible explanations for dark matter and probes into physics beyond the Standard Model.
 
@@ -64,15 +65,16 @@ I study gravitational wave (GW) backgrounds arising from early Universe phenomen
 - GWs from first-order phase transitions
 - Signals from oscillons and other nonperturbative structures
 
-I am particularly interested in the potential detectability of these signals by current and future observatories such as LISA, PTA, and advanced ground-based detectors.
+I am particularly interested in the potential detectability of these signals by current and future observatories such as LISA, ET, PTA, and advanced ground-based detectors.
 
 ---
 
 ## Interdisciplinary Research
 
-In addition to cosmology, I have worked on dynamical quantum systems, particularly exciton-polaritons in condensed matter settings. My contributions include theoretical modeling of coupled light-matter systems with nonlinear interactions. See our [paper](https://arxiv.org/abs/1612.00629) for more detailed information. 
+In addition to cosmology, I have worked on dynamical *quantum systems*, particularly exciton-polaritons in condensed matter settings. My contributions include theoretical modeling of coupled light-matter systems with nonlinear interactions. See our [paper](https://arxiv.org/abs/1612.00629) for more detailed information. 
 
-I have also explored **systems neuroscience**, focusing on how the brain processes visual information. My collaborators and I use advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
+\\
+I have also explored *systems neuroscience*, focusing on how the brain processes visual information. My collaborators and I use advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
 
 ---
 
