@@ -10,8 +10,9 @@ Last Update: April, 2025
 
 ---
 
-\\
+Some entries summarizing my work or some exciting news! 
 
+---
 
 - [New paper: Primordial Black Holes and Scalar Induced gravitational waves in logarithmic non-Gaussianities](blogs/2025-04-09-LogNGPBH.md)
 
@@ -22,5 +23,11 @@ Last Update: April, 2025
 - [New paper: Inhomogeneous initial conditions for inflation.](blogs/2020-12-12-preinflation.md)
 
 - [Hello world!](blogs/2020-07-05-Hello-World.md)
+
+
+---
+
+*"Infinite ideas flow through the Multiverse, waiting for an open mind."*
+*—The Biblioplex: An Introduction*
 
 
