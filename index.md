@@ -20,7 +20,7 @@ I am a theoretical and computational physicist specializing in early Universe co
 I am currently transitioning to a postdoctoral position at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
 
 \\
-I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog](https://cjoana.github.io/blogs/) pages where I write summaries of some of my publications. From time to time I make some video animation of my simulations, which can be found  youtube [here](https://www.youtube.com/n0ian).
+I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in youtube [here](https://www.youtube.com/n0ian).
 
 
 
@@ -118,15 +118,15 @@ I have also explored *systems neuroscience*, focusing on how the brain processes
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
 
-- **May 2025**: New PRR paper on bubble-wall collisions with primordial black holes [arXiv:2406.05838](https://arxiv.org/abs/2406.05838). 
+- **May 2025**: New *PRR* paper on bubble-wall collisions with primordial black holes [arXiv:2406.05838](https://arxiv.org/abs/2406.05838). 
 
-- **April 2025**: New JCAP paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH)
+- **April 2025**: New *JCAP* paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH)
 
-- **January 2025**: Our new LISA review paper on PBHs is now published at Liv. Rev. Rel. [arXiv:2310.19857](https://arxiv.org/pdf/2310.19857)
+- **January 2025**: Our new LISA review paper on PBHs is now published in *Living Reviews* [arXiv:2310.19857](https://arxiv.org/pdf/2310.19857)
 
-- **September 2024:** New paper published in PRD on Initial conditions for Inflation. See [post](blogs/2024-09-10-Initial_Conditions). 
+- **September 2024:** New paper published in *PRD* on Initial conditions for Inflation. See [post](blogs/2024-09-10-Initial_Conditions). 
 
-- **August 2024:** My grant application for NSFC (RFIS I) has been successful. 
+- **August 2024:** My grant application for the *NSFC grant (RFIS I)* has been successful. 
 
 - **March 2024:** The website has a new look! 
 
