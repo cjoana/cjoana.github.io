@@ -117,6 +117,7 @@ I have also explored *systems neuroscience*, focusing on how the brain processes
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
+- **May 2025**: New *PRD* paper on primordial black holes form primordial voids [arXiv:2510.11611](https://arxiv.org/abs/2510.11611). 
 
 - **May 2025**: New *PRR* paper on bubble-wall collisions with primordial black holes [arXiv:2406.05838](https://arxiv.org/abs/2406.05838). 
 
