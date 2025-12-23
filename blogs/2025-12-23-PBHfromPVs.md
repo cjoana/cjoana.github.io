@@ -42,6 +42,8 @@ Fig. 1, Dynamics of formation and collapse of a primordial void into a black hol
 </p>
 {: refdef}
 
+&nbsp;
+
 
 The panels show, from top to bottom, the energy density contrast, the relative recession velocity with respect to the background expansion, and the (rescaled) three-dimensional Ricci curvature. These diagnostics clearly reveal the qualitative difference between collapsing and non-collapsing voids.
 
@@ -92,7 +94,7 @@ Accounting for primordial voids may thus be essential for a complete and consist
 This work opens several directions for future research, including the effects of non-Gaussianities, broader power spectra, departures from spherical symmetry, and PBH formation during scalar-field–dominated eras. Understanding how void-dominated configurations interact with these ingredients will be crucial for building a unified picture of PBH formation in the early Universe.
 
  
-If interested, stay tuned — more on primordial voids is coming soon.
+If interested, stay tuned — more on primordial fluctuations, peaks and voids, is coming soon.
 
 
 
