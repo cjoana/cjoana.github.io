@@ -67,6 +67,9 @@ I study gravitational wave (GW) backgrounds arising from early Universe phenomen
 
 I am particularly interested in the potential detectability of these signals by current and future observatories such as LISA, ET, PTA, and advanced ground-based detectors.
 
+### Machine learning in Physics
+Applications of Artificial Intelligence and Machine Learning methods alongside numerical simulations to study cosmological phenomena such as gravitational collapse thresholds and peak profiles generated during (stochastic) inflation.
+
 ---
 
 ## Interdisciplinary Research
