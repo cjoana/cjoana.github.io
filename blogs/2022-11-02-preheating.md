@@ -65,5 +65,5 @@ Fig. 2 Gravitational and scalar-field dyanmics during pre-inflation. Two simulat
 2.  C. Joana (2022), Gravitational dynamics in Higgs inflation: Preinflation and preheating with an auxiliary field.  [arXiv:2202.07604](https://arxiv.org/abs/2202.07604)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcjoana.github.io%2Fcosmo%2Fpreheating&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Hits](https://hits.sh/cjoana.github.io/blogs/2022-11-02-preheating.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2022-11-02-preheating/)

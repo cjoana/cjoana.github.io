@@ -51,6 +51,4 @@ Our analysis further supports the robustness of inflation to any size of inhomog
 1.  C. Joana, S. Clesse 2020, Inhomogeneous initial conditions for inflation: A wibbly-wobbly timey-wimey path to salvation.  [arXiv:2011.12190](https://arxiv.org/abs/2011.12190)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcjoana.github.io%2Fcosmo%2Fpreinflation&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+[![Hits](https://hits.sh/cjoana.github.io/blogs/2020-12-12-preinflation.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2020-12-12-preinflation/)
