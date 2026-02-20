@@ -45,8 +45,7 @@ Fig. 1, Dynamics of formation and collapse of a primordial void into a black hol
 &nbsp;
 
 
-The panels show, from top to bottom, the energy density contrast, the relative recession velocity with respect to the background expansion, and the (rescaled) three-dimensional Ricci curvature. These diagnostics clearly reveal the qualitative difference between collapsing and non-collapsing voids.
-
+The panels show, from top to bottom, the energy density contrast, the relative recession velocity with respect to the background expansion, and the (rescaled) three-dimensional Ricci curvature. These diagnostics clearly reveal the qualitative difference between collapsing and non-collapsing voids. For a visual animation see [this Youtobe video.](https://youtu.be/z5-uIc8YmCg)
 
 
 #### Thresholds and Mass Scaling
