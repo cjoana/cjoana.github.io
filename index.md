@@ -7,7 +7,7 @@ layout: page
 ---
 
 \\
-<img title="" src="./images/cjoana.jpeg" alt="" class="floatpic" width="540" height="720"> 
+<img title="" src="./images/prof_thai.png" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
 \\
@@ -78,6 +78,9 @@ In addition to cosmology, I have worked on dynamical *quantum systems*, particul
 
 \\
 I have also explored *systems neuroscience*, focusing on how the brain processes visual information. My collaborators and I use advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
+
+\\
+I am also involved in some projects on Climate and Sustainability, providing (minor) support with data analyses. 
 
 ---
 

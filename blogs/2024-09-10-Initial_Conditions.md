@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title:  "Beginning Inflation from Inhomogeneous and Curved Spacetimes"
 date:   2024-09-10
 categories: cosmo

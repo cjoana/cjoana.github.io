@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 *.ignore
+Gemfile.lock
+vendor/
+.claude
+.DS_Store
+*.DS_Store

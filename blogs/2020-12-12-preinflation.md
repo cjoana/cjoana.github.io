@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title:  "The wibbly-wobbly timey-wimey preinflationary era"
 date:   2021-02-01
 categories: cosmo

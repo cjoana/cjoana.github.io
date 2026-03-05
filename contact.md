@@ -4,7 +4,7 @@ permalink: /contact/index.html
 title: Contact
 ---
 
-Update: January 05, 206    
+Update: January 05, 2026    
 
 {:refdef: style="text-align: "}    
 <img  src="/images/ITP-CAS_bloss.jpg" alt="fig bh" width="600"/>    

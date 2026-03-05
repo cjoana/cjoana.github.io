@@ -6,12 +6,14 @@ title: Publications
 ---
 
 \\
-Last Update: 01th May 2025
+Last Update: 05th March 2026
 
 \\
 For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/2007073?ui-citation-summary=true) or [GScholars](https://scholar.google.com/citations?user=rvEBEAwAAAAJ&hl=en&oi=sra).
 
 ## Selected Papers (astropysics, cosmology)
+
+- <span style="color:blue;">*Primordial black holes from primordial voids*</span>,<br> **Cristian Joana**, Zi-Yan Yuwen. <br>Published in: [Phys.Rev.D 113 (2026) 2](https://journals.aps.org/prd/abstract/10.1103/j3hw-d5cx). ArXiv: [2510.11611](https://arxiv.org/pdf/2510.11611).
 
 - <span style="color:blue;">*Primordial black holes and induced gravitational waves from logarithmic non-Gaussianity*</span>,<br> Ryoto Inui, **Cristian Joana**, Hayato Motohashi, Shi Pi, Yuichiro Tada, Shuichiro Yokoyama. <br>Published in: [JCAP 03 (2025) 021](https://iopscience.iop.org/article/10.1088/1475-7516/2025/03/021). ArXiv: [2411.07647](https://arxiv.org/pdf/2411.07647).
 
