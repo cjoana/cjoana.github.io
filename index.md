@@ -13,13 +13,10 @@ layout: page
 \\
 Welcome to **Cristian Joana**'s homepage. 
 
-\\
 I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
-\\
 I am currently transitioning to a postdoctoral position at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
 
-\\
 I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in youtube [here](https://www.youtube.com/n0ian).
 
 
@@ -84,23 +81,29 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 ---
 
+## Mentoring & Teaching
 
-### Current Teaching
+### Currently
 
 - Supervising, mentoring PhD and MSc students.
 
-### Past Teaching
+### Past Teachings
 
 - [Quantum mechanics II](https://uclouvain.be/en-cours-2019-lphys1342) (years 2019-2021)
 - [Introduction to Computational Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?gguid=0x792B4EBEDF13204790133F661F74473C&fieldgguid=0x6E27476F2282E446A1228419DDDB3892&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
 - [Theoretical Neuroscience](https://www.campus.rwth-aachen.de/rwth/all/abstractmodule.asp?objgguid=0xCFA5A28AEF56A9419F5430D5A03AB043&object=event&gguid=0x21ECCFFBBC4BDE41AF97A38C435E6761&fieldgguid=&tguid=0xEBB2D1C29613C04FBF47F82813B5A4E9) (year 2017)
 
 
+---
+
+## Collaborations
+
+
 <div class="infocolumn" markdown="block">
-<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborations</h4>
+<h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaboration Teams</h4>
 
 - [GRChombo Team](https://www.grchombo.org/)
-- [LISA](https://www.elisascience.org/)
+- [LISA Consortium](https://www.lisamission.org/)
 
 
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>

@@ -32,6 +32,6 @@ Some entries summarizing my work or some exciting news!
 ---
 
 *"Infinite ideas flow through the Multiverse, waiting for an open mind."*
-*—The Biblioplex: An Introduction*
+*— The Biblioplex.*
 
 
