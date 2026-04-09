@@ -44,6 +44,6 @@ A collection of simulation videos from my research.
 
 ---
 
-*"Greatness, at any cost."*
+*Greatness, at any cost.*
 
 [![Hits](https://hits.sh/cjoana.github.io/gallery.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/gallery/)
