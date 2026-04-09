@@ -7,8 +7,6 @@ title: Gallery
 
 # Gallery
 
-A collection of simulation videos from my research.
-
 &nbsp;
 
 ## PBH formation (overdensity)
