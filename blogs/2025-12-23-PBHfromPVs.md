@@ -63,7 +63,7 @@ with a critical exponent \(\gamma\) that depends primarily on the equation of st
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/bhmasses_neg.png" alt="fig ecm" width="800"/>
+<img src="/images/bhmasses_neg.png" alt="fig ecm" width="500"/>
 </p>
 
 <p align = "center">

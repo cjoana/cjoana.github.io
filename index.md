@@ -11,7 +11,7 @@ layout: page
 <!--  width="360" height="480 -->
 
 \\
-Welcome to **Cristian Joana**'s homepage. 
+This is **Cristian Joana**'s website. Welcome.  
 
 I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
