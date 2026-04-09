@@ -40,3 +40,10 @@ A collection of simulation videos from my research.
 <div style="text-align: center; margin-bottom: 2em;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J5M6R1UxvVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+---
+
+
+
+[![Hits](https://hits.sh/cjoana.github.io/gallery.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/gallery/)
