@@ -17,8 +17,7 @@ I am a theoretical and computational physicist specializing in early Universe co
 
 I am currently transitioning to a postdoctoral position at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
 
-I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in youtube [here](https://www.youtube.com/n0ian).
-
+I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
 
 
 &nbsp;
