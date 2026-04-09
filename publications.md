@@ -11,7 +11,7 @@ Last Update: 05th March 2026
 \\
 For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/2007073?ui-citation-summary=true) or [GScholars](https://scholar.google.com/citations?user=rvEBEAwAAAAJ&hl=en&oi=sra).
 
-## Selected Papers (astropysics, cosmology)
+## Selected Papers (physics, cosmology)
 
 - <span style="color:blue;">*Primordial black holes from primordial voids*</span>,<br> **Cristian Joana**, Zi-Yan Yuwen. <br>Published in: [Phys.Rev.D 113 (2026) 2](https://journals.aps.org/prd/abstract/10.1103/j3hw-d5cx). ArXiv: [2510.11611](https://arxiv.org/pdf/2510.11611).
 
@@ -43,5 +43,7 @@ For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/20
 
 ---
 
+
+*"Don't just have an idea — have all of them." — Niv-Mizzet*
 
 
