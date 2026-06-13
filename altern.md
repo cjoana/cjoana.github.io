@@ -18,9 +18,11 @@ This is **Cristian Joana**'s website. Welcome.
 
 I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
-I am currently transitioning to an **Associate Professor** position at **Hainan University**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*, and most recently at *ICTP-AP in Beijing*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
+I am currently transitioning to an **Associate Professor** position at **Hainan University**. 
 
-I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
+Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*, and most recently at *ICTP-AP in Beijing*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels. I obtained my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I tackled the initial conditions problem of inflation and the process of parametric reheating.  
+
+You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
 
 
 &nbsp;
