@@ -10,7 +10,7 @@ robots: noindex, nofollow
 ---
 
 \\
-<img title="" src="../images/prof_thai.png" alt="" class="floatpic" width="540" height="720"> 
+<img title="" src="../images/cjoana_04.png" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
 \\
@@ -157,6 +157,9 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 ---
 
+{% comment %}
+
 [![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
 
+{% endcomment %}
 ---
