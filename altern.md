@@ -25,7 +25,7 @@ I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thes
 
 &nbsp;
 
-> :sparkles: **New information will be released soon!** Stay tuned for updates on the group, openings, and research directions at Hainan University. :sparkles:
+> ✨ **New information will be released soon!** Stay tuned for updates on the group, openings, and research directions at Hainan University.
 
 &nbsp;
 
