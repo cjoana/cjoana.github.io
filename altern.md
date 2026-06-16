@@ -160,8 +160,9 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 ---
 
 {% comment %}
-
-[![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
-
 {% endcomment %}
+
+[![Hits](https://hits.sh/cjoana.github.io/altern.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/altern/)
+
+
 ---
