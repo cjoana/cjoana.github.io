@@ -11,7 +11,7 @@ image:
 ### Summary
 
 Primordial Black Holes (PBHs) are a leading candidate for Dark Matter and serve as a unique probe of the extreme conditions of the infant Universe. While the standard framework typically models the collapsing cosmic medium as a perfect fluid with a constant equation-of-state, the formation of a PBH is a violent, highly non-linear process involving rapid compression and large velocity gradients. In our new paper
-[XXXX](link), we move beyond the ideal fluid description to investigate how bulk viscosity - a natural dissipative correction in hydrodynamical systems — impacts the gravitational collapse and mass of resulting PBHs.
+[arXiv:2606.26532](https://arxiv.org/abs/2606.26532), we move beyond the ideal fluid description to investigate how bulk viscosity - a natural dissipative correction in hydrodynamical systems — impacts the gravitational collapse and mass of resulting PBHs.
 
 ### The Impact of Viscosity on Collapse
 
@@ -79,7 +79,8 @@ Stay tuned for more updates on phenomenology from the early Universe!
 
 #### References:
 
-C. Joana et al. (2026), Primordial Black Hole Formation in a Viscous Universe. (In draft).
-E. Bagui et al. [LISA Cosmology Working Group], "Primordial black holes and their gravitational-wave signatures", Living Rev. Rel. 28, 1 (2025)
+1) C. Joana et al. (2026), Primordial Black Hole Formation in a Viscous Universe. [arXiv:2606.26532](https://arxiv.org/abs/2606.26532)
+
+2) E. Bagui et al. [LISA Cosmology Working Group], "Primordial black holes and their gravitational-wave signatures", Living Rev. Rel. 28, 1 (2025)
 
 [![Hits](https://hits.sh/cjoana.github.io/blogs/2026-06-25-PBHinViscousCosmos.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2026-06-25-PBHinViscousCosmos/)
