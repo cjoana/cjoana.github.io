@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Primordial Black Hole Formation in a Viscous Universe"
-date: 2026-03-05
+date: 2026-06-25
 categories: cosmo
 image: 
 ---
@@ -82,4 +82,4 @@ Stay tuned for more updates on phenomenology from the early Universe!
 C. Joana et al. (2026), Primordial Black Hole Formation in a Viscous Universe. (In draft).
 E. Bagui et al. [LISA Cosmology Working Group], "Primordial black holes and their gravitational-wave signatures", Living Rev. Rel. 28, 1 (2025)
 
-[![Hits](https://hits.sh/cjoana.github.io/blogs/2026-03-10-PBHinViscousCosmos.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2026-03-10-PBHinViscousCosmos/)
+[![Hits](https://hits.sh/cjoana.github.io/blogs/2026-06-25-PBHinViscousCosmos.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/blogs/2026-06-25-PBHinViscousCosmos/)

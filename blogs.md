@@ -14,9 +14,11 @@ Some entries summarizing my work or some exciting news!
 
 ---
 
+2026-06-25-PBHinViscousCosmos.md
+
+- [New paper: Primordial Black Hole Formation on Viscous Bulk Cosmologies](blogs/2026-06-25-PBHinViscousCosmos.md)
 
 - [New paper: Primordial Black Holes from Primordial Voids](blogs/2025-12-23-PBHfromPVs.md)
-
 
 - [New paper: Primordial Black Holes and Scalar Induced gravitational waves in logarithmic non-Gaussianities](blogs/2025-04-09-LogNGPBH.md)
 

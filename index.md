@@ -7,7 +7,7 @@ layout: page
 ---
 
 \\
-<img title="" src="./images/prof_thai.png" alt="" class="floatpic" width="540" height="720"> 
+<img title="" src="../images/cjoana_04.png" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
 \\
@@ -15,7 +15,7 @@ This is **Cristian Joana**'s website. Welcome.
 
 I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
-I am currently transitioning to a postdoctoral position at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
+I am a postdoctoral researcher at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
 
 I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
 
@@ -124,6 +124,8 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 ## News and Updates
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
+
+- **June 2026**: New preprint on primrodial black hole formation on viscous bulk cosmologies [arXiv:2606.26532](https://arxiv.org/abs/2606.26532)
 
 - **December 2025**: New *PRD* paper on primordial black holes form primordial voids [arXiv:2510.11611](https://arxiv.org/abs/2510.11611), check a summary [here](blogs/2025-12-23-PBHfromPVs). 
 
