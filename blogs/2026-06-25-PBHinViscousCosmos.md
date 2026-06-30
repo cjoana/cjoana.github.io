@@ -79,7 +79,7 @@ Stay tuned for more updates on phenomenology from the early Universe!
 
 #### References:
 
-1) C. Joana et al. (2026), Primordial Black Hole Formation in a Viscous Universe. [arXiv:2606.26532](https://arxiv.org/abs/2606.26532)
+1) ZY Yuwen C. Joana, SJ Wang, RG Cai (2026), Primordial Black Hole Formation in a Viscous Universe. [arXiv:2606.26532](https://arxiv.org/abs/2606.26532)
 
 2) E. Bagui et al. [LISA Cosmology Working Group], "Primordial black holes and their gravitational-wave signatures", Living Rev. Rel. 28, 1 (2025)
 

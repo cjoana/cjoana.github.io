@@ -44,6 +44,6 @@ For full list of my papers, check [InspireHEP](https://inspirehep.net/authors/20
 ---
 
 
-*"Don't just have an idea — have all of them." — Niv-Mizzet*
+*"Don't just have an idea, have all of them." — Niv-Mizzet*
 
 
