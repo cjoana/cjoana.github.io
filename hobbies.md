@@ -11,7 +11,7 @@ title: Hobbies
 
 ## Chess
 
-I play quite regulary, mostly in the *Daily* modallity of chess.com, where the player has 3 days to make a single move (so one game last for several weeks!, usually), perfect for limited time. I eventually play some tournaments in the local club wherever I live.  
+I play quite regulary, mostly in the *Daily* modallity of chess.com, where the player has 3 days to make a single move (so one game tend to last for several weeks!), perfect for limited time. I eventually play some tournaments in the local club wherever I live.  
 
 If you like, you can challange me an online game at [Chess.com](https://www.chess.com/member/cjoana).
 
@@ -19,7 +19,7 @@ If you like, you can challange me an online game at [Chess.com](https://www.ches
 
 {:refdef: style="text-align: center;"}
 <p align = "center">
-<img src="/images/chessBCN.png" alt="Chess in Beijing" width="300"/>
+<img src="/images/chessBCN.png" alt="Chess in Beijing" width="200"/>
 </p>
 
 <div style="max-width:500px; margin:0 auto; text-align:center;">

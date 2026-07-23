@@ -7,7 +7,7 @@ layout: page
 ---
 
 \\
-<img title="" src="../images/cjoana_04.png" alt="" class="floatpic" width="540" height="720"> 
+<img title="" src="../images/cjoana_guilin.jpg" alt="" class="floatpic" width="540" height="720"> 
 <!--  width="360" height="480 -->
 
 \\
@@ -15,13 +15,20 @@ This is **Cristian Joana**'s website. Welcome.
 
 I am a theoretical and computational physicist specializing in early Universe cosmology. My research interests include inflation, primordial black holes, and gravitational waves from cosmological sources. I combine numerical relativity and analytical approaches to explore fundamental questions about the origin and evolution of the Universe.
 
-I am a postdoctoral researcher at **ICTP-AP in Beijing**. Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels.
+I am currently transitioning to an **Associate Professor** position at **Hainan University**. 
 
-I did my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I investigated initial conditions for inflation and scenarios involving gravitational collapse, particularly for the formation of primordial black holes. You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
+Previously, I was a postdoctoral fellow at the *Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)*, and most recently at *ICTP-AP in Beijing*. I have also been a visiting researcher at *Institute of Science Tokyo* in Ookayama/Tokyo and at the *Universite Libre de Bruxelles (ULB)* in Brussels. I obtained my PhD at the **Universite Catholique de Louvain (UCLouvain)** and my thesis focused on **numerical relativity approaches to the early Universe**, where I tackled the initial conditions problem of inflation and the process of parametric reheating.  
+
+You can check out my [blog pages](https://cjoana.github.io/blogs/) where I write summaries of some of my publications. From time to time I make video animations of my simulations, which can be found in [here](https://cjoana.github.io/gallery/).
 
 
 &nbsp;
 
+> ✨ **New information will be released soon!** Stay tuned for updates on the group, openings, and research directions at Hainan University.
+
+&nbsp;
+
+<!-- 
 {:refdef: style="text-align: center;"}
 <p align = "center">
 <img src="/images/ITPgroup2023.jpg" alt="ITP group" width="800"/>
@@ -33,13 +40,14 @@ November 2023, the cosmology group at ITP with our guest Prof. Teruaki Suyama (S
 {: refdef}
 
 &nbsp;
+-->
 
 
 
 
 ---
 
-## Research Interests
+## Research directions
 
 ### Early Universe Phenomenology
 
@@ -73,18 +81,22 @@ Applications of Artificial Intelligence and Machine Learning methods alongside n
 In addition to cosmology, I have worked on dynamical *quantum systems*, particularly exciton-polaritons in condensed matter settings. My contributions include theoretical modeling of coupled light-matter systems with nonlinear interactions. See our [paper](https://arxiv.org/abs/1612.00629) for more detailed information. 
 
 \\
-I have also explored *systems neuroscience*, focusing on how the brain processes visual information. My collaborators and I use advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
+I have also worked in the field of *systems neuroscience*, focusing on how the brain processes visual information. My collaborators and I used advanced statistical and machine learning techniques to match visual stimuli with neural responses in macaques under free-viewing conditions. Our publications can be found [here](https://www.nature.com/articles/s41598-022-09405-4) and [here](https://www.eneuro.org/content/10/10/ENEURO.0086-23.2023).  This research aims to uncover how the brain constructs a coherent visual experience from dynamic environments. I am not currenlty engenge in this line of research, but I always find it extremely intersting. 
 
 \\
-I am also involved in some projects on Climate and Sustainability, providing (minor) support with data analyses. 
+I have been also involved in some projects on Climate and Sustainability, providing (minor) support with data analyses. 
+
 
 ---
+
+{% comment %}
 
 ## Mentoring & Teaching
 
 ### Currently
 
 - Supervising, mentoring PhD and MSc students.
+- *New openings for PhD and MSc students at Hainan University — details coming soon.*
 
 ### Past Teachings
 
@@ -94,6 +106,7 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 
 ---
+{% endcomment %}
 
 ## Collaborations
 
@@ -105,10 +118,13 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 - [LISA Consortium](https://www.lisamission.org/)
 
 
+{% comment %}
+
 <h4 style="margin-top: 0.2em; margin-bottom: 0.0em;"> Collaborators </h4>
 
 - [Christophe Ringeval](https://curl.group/members/chris.html) (UCLouvain-CURL)
 - [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) (ULB/CURL)
+- [ZiYan Yuwen](https://einste11n.github.io/zy-yuwen.github.io/) (APCTP)
 - [Jun Zhang](https://ictp-ap.org/profile/74) (ICTP-AP)
 - [Shi Pi](https://stonepi.github.io/) (ITP-CAS)
 - [Shao-Jiang Wang](https://wangshaojiang.wordpress.com/) (ITP-CAS)
@@ -118,6 +134,8 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 </div>
 
+{% endcomment %}
+
 ---
 
 
@@ -125,13 +143,15 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 #### For more detailed updates, see [BLOGS](https://cjoana.github.io/blogs/).
 
+- **Coming soon**: Joining **Hainan University** as Associate Professor — more information on the group, openings, and projects will be released soon.
+
 - **June 2026**: New preprint on primrodial black hole formation on viscous bulk cosmologies [arXiv:2606.26532](https://arxiv.org/abs/2606.26532)
 
 - **December 2025**: New *PRD* paper on primordial black holes form primordial voids [arXiv:2510.11611](https://arxiv.org/abs/2510.11611), check a summary [here](blogs/2025-12-23-PBHfromPVs). 
 
 - **May 2025**: New *PRR* paper on bubble-wall collisions with primordial black holes [arXiv:2406.05838](https://arxiv.org/abs/2406.05838). 
 
-- **April 2025**: New *JCAP* paper on PBHs and SIGWs, check a summary [here](blogs/2025-04-09-LogNGPBH)
+- **April 2025**: New *JCAP* paper on PBHs and SIGWs with local non-Gaussianities, check a summary [here](blogs/2025-04-09-LogNGPBH)
 
 - **January 2025**: Our new LISA review paper on PBHs is now published in *Living Reviews* [arXiv:2310.19857](https://arxiv.org/pdf/2310.19857)
 
@@ -145,7 +165,10 @@ I am also involved in some projects on Climate and Sustainability, providing (mi
 
 ---
 
-[![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
+{% comment %}
+{% endcomment %}
+
+[![Hits](https://hits.sh/cjoana.github.io/altern.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
+
 
 ---
-
