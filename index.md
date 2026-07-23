@@ -168,7 +168,7 @@ I have been also involved in some projects on Climate and Sustainability, provid
 {% comment %}
 {% endcomment %}
 
-[![Hits](https://hits.sh/cjoana.github.io/altern.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
+[![Hits](https://hits.sh/cjoana.github.io.svg?label=read&color=ffffff&labelColor=ffffff)](https://hits.sh/cjoana.github.io/)
 
 
 ---
